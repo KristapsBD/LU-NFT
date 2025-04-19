@@ -1,0 +1,2 @@
+A comparative implementation of NFT minting functionality across three blockchain protocols: Bitcoin (Ordinals), Ethereum (ERC-721), and Solana (Metaplex). This project demonstrates the technical differences, development complexity, and user experience of creating digital collectibles on each platform while maintaining consistent metadata and functionality.
+Developed as part of a bachelor's thesis research at the University of Latvia.
