@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f766b81d-3dc8-4b60-94b8-6c1a447fbf8d" name="Changes" comment="" />
+    <list default="true" id="f766b81d-3dc8-4b60-94b8-6c1a447fbf8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/minting-dapp/src/scripts/lib/NftContractType.ts" beforeDir="false" afterPath="$PROJECT_DIR$/minting-dapp/src/scripts/lib/NftContractType.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-contract/config/CollectionConfig.ts" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/config/CollectionConfig.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-contract/contracts/YourNftToken.sol" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/contracts/LUNFTMINTER.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-contract/lib/NftContractProvider.ts" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/lib/NftContractProvider.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +26,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2vwTIe2tqIUfUs4RV63M3HkSkeC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,21 +40,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/kristapsdravnieks/universitate/LU-NFT",
+    "last_opened_file_path": "/home/kristapsdravnieks/universitate/LU-NFT/smart-contract",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
-    "ts.external.directory.path": "/snap/phpstorm/482/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "ts.external.directory.path": "/home/kristapsdravnieks/universitate/LU-NFT/smart-contract/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/smart-contract" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -63,7 +72,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745055057849</updated>
-      <workItem from="1745055058953" duration="654000" />
+      <workItem from="1745055058953" duration="1049000" />
+      <workItem from="1745056155650" duration="5004000" />
     </task>
     <servers />
   </component>

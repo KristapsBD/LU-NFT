@@ -9,25 +9,25 @@ const CollectionConfig: CollectionConfigInterface = {
   // The contract name can be updated using the following command:
   // yarn rename-contract NEW_CONTRACT_NAME
   // Please DO NOT change it manually!
-  contractName: 'YourNftToken',
-  tokenName: 'My NFT Token',
-  tokenSymbol: 'MNT',
+  contractName: 'LUNFTMINTER',
+  tokenName: 'Latvijas Universitātes NFT',
+  tokenSymbol: 'LUNFT',
   hiddenMetadataUri: 'ipfs://__CID__/hidden.json',
-  maxSupply: 10000,
+  maxSupply: 100,
   whitelistSale: {
-    price: 0.05,
-    maxMintAmountPerTx: 1,
+    price: 0.01,
+    maxMintAmountPerTx: 10,
   },
   preSale: {
-    price: 0.07,
-    maxMintAmountPerTx: 2,
+    price: 0.011,
+    maxMintAmountPerTx: 3,
   },
   publicSale: {
-    price: 0.09,
+    price: 0.015,
     maxMintAmountPerTx: 5,
   },
-  contractAddress: null,
-  marketplaceIdentifier: 'my-nft-token',
+  contractAddress: "",
+  marketplaceIdentifier: 'lu-nft',
   marketplaceConfig: Marketplaces.openSea,
   whitelistAddresses,
 };
