@@ -6,16 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f766b81d-3dc8-4b60-94b8-6c1a447fbf8d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minting-dapp/src/scripts/lib/Whitelist.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/minting-dapp/src/scripts/react/CollectionStatus.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/minting-dapp/src/scripts/react/CollectionStatus.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minting-dapp/src/scripts/react/Dapp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/minting-dapp/src/scripts/react/Dapp.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minting-dapp/src/scripts/react/MintWidget.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/minting-dapp/src/scripts/react/MintWidget.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smart-contract/config/CollectionConfig.ts" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/config/CollectionConfig.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smart-contract/config/ContractArguments.ts" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/config/ContractArguments.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smart-contract/config/whitelist.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/smart-contract/contracts/LUNFTMINTER.sol" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/contracts/LUNFTMINTER.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smart-contract/hardhat.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/hardhat.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smart-contract/lib/CollectionConfigInterface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/lib/CollectionConfigInterface.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/kristapsdravnieks/universitate/LU-NFT/smart-contract",
+    "last_opened_file_path": "/var/www/nycbullion",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.standard": "",
@@ -76,7 +66,9 @@
       <option name="presentableId" value="Default" />
       <updated>1745055057849</updated>
       <workItem from="1745055058953" duration="1049000" />
-      <workItem from="1745056155650" duration="7009000" />
+      <workItem from="1745056155650" duration="7252000" />
+      <workItem from="1745261547254" duration="4356000" />
+      <workItem from="1745305309813" duration="32000" />
     </task>
     <servers />
   </component>
