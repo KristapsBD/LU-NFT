@@ -15,7 +15,7 @@ const CollectionConfig: CollectionConfigInterface = {
   maxSupply: 100,
   mintPrice: 0.015,
   maxMintAmountPerTx: 5,
-  contractAddress: "0x6835A4c4C1c90A96dEC31D356a352999BA17FBAB",
+  contractAddress: "0xCfbDb585aEd4a31E73aeBaC14aAa4FA9533Dc461",
   marketplaceIdentifier: "lu-nft",
   marketplaceConfig: Marketplaces.openSea,
 };

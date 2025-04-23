@@ -6,6 +6,10 @@ import 'erc721a/contracts/extensions/ERC721AQueryable.sol';
 import '@openzeppelin/contracts/access/Ownable.sol';
 import '@openzeppelin/contracts/security/ReentrancyGuard.sol';
 
+/**
+ * Implementation of ERC721A Non-Fungible Token Standard
+ * Developed as part of a bachelor's thesis research at the University of Latvia
+ */
 contract LUNFTMINTER is ERC721AQueryable, Ownable, ReentrancyGuard {
 
   using Strings for uint256;
@@ -18,7 +22,7 @@ contract LUNFTMINTER is ERC721AQueryable, Ownable, ReentrancyGuard {
   uint256 public maxSupply;
   uint256 public maxMintAmountPerTx;
 
-  bool public paused = true;
+  bool public paused = false;
   bool public revealed = false;
 
   constructor(
