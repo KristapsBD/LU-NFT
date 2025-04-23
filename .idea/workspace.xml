@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f766b81d-3dc8-4b60-94b8-6c1a447fbf8d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-contract/config/CollectionConfig.ts" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/config/CollectionConfig.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-contract/contracts/LUNFTMINTER.sol" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/contracts/LUNFTMINTER.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-contract/hardhat.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/hardhat.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-contract/lib/Networks.ts" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/lib/Networks.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-contract/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-contract/test/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/test/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,23 +33,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/var/www/nycbullion",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
-    "ts.external.directory.path": "/home/kristapsdravnieks/universitate/LU-NFT/minting-dapp/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kristapsdravnieks/universitate/LU-NFT/smart-contract&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.linters.eslint&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/kristapsdravnieks/universitate/LU-NFT/minting-dapp/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/smart-contract" />
@@ -67,8 +73,7 @@
       <updated>1745055057849</updated>
       <workItem from="1745055058953" duration="1049000" />
       <workItem from="1745056155650" duration="7252000" />
-      <workItem from="1745261547254" duration="4356000" />
-      <workItem from="1745305309813" duration="32000" />
+      <workItem from="1745261547254" duration="2970000" />
     </task>
     <servers />
   </component>
