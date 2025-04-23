@@ -12,7 +12,7 @@ const CollectionConfig: CollectionConfigInterface = {
   tokenName: "Latvijas Universitātes NFT",
   tokenSymbol: "LUNFT",
   hiddenMetadataUri: "ipfs://__CID__/hidden.json",
-  maxSupply: 100,
+  maxSupply: 50,
   mintPrice: 0.015,
   maxMintAmountPerTx: 5,
   contractAddress: "0xCfbDb585aEd4a31E73aeBaC14aAa4FA9533Dc461",
