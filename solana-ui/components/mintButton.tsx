@@ -131,14 +131,6 @@ const mintClick = async (
     return;
   }
 
-  let buyBeer = true;
-  console.log("buyBeer",process.env.NEXT_PUBLIC_BUYMARKBEER )
-
-  if (process.env.NEXT_PUBLIC_BUYMARKBEER  === "false") {
-    buyBeer = false;
-    console.log("The Creator does not want to pay for MarkSackerbergs beer 😒");
-  }
-
   try {
     //find the guard by guardToUse.label and set minting to true
     const guardIndex = guardList.findIndex((g) => g.label === guardToUse.label);
@@ -214,8 +206,7 @@ const mintClick = async (
       mintArgs,
       tables,
       latestBlockhash,
-      1_400_000,
-      buyBeer
+      1_400_000
     );
     const requiredCu = await getRequiredCU(umi, txForSimulation);
 
@@ -231,8 +222,7 @@ const mintClick = async (
         mintArgs,
         tables,
         latestBlockhash,
-        requiredCu,
-        buyBeer
+        requiredCu
       );
       console.log(transaction)
       mintTxs.push(transaction);

@@ -3,6 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/candymachine" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/candymachine/example-candy-machine-assets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/solana-ui" vcs="Git" />
   </component>
 </project>

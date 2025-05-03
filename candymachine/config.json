@@ -7,7 +7,7 @@
   "isSequential": false,
   "creators": [
     {
-      "address": "BYnhk792CLQK5C8M4fnRs7kMACzi3MqnEP1BNDF47p8V",
+      "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
       "share": 100
     }
   ],
@@ -21,13 +21,9 @@
   "hiddenSettings": null,
   "guards": {
     "default": {
-      "mintLimit": {
-        "id": 1,
-        "limit": 10
-      },
       "solPayment": {
         "value": 0.1,
-        "destination": "CDyL1o3MLe23k3654tL1iQtYShjT15iWWKf6d499EHTc"
+        "destination": "BoQTKopEMxgMZRwdW4gqVN5aSUZdnmjAEhw2SLvD6K6T"
       }
     }
   },

@@ -346,8 +346,7 @@ export const buildTx = (
   mintArgs: Partial<DefaultGuardSetMintArgs> | undefined,
   luts: AddressLookupTableInput[],
   latestBlockhash: BlockhashWithExpiryBlockHeight,
-  units: number,
-  buyBeer: boolean
+  units: number
 ) => {
   let tx = transactionBuilder().add(
     mintV2(umi, {
@@ -361,16 +360,6 @@ export const buildTx = (
       tokenStandard: candyMachine.tokenStandard,
     })
   );
-  if (buyBeer) {
-    tx = tx.prepend(
-      transferSol(umi, {
-        destination: publicKey(
-          "BeeryDvghgcKPTUw3N3bdFDFFWhTWdWHnsLuVebgsGSD"
-        ),
-        amount: sol(Number(0.005)),
-      })
-    );
-  }
   tx = tx.prepend(setComputeUnitLimit(umi, { units }));
   tx = tx.prepend(setComputeUnitPrice(umi, { microLamports: parseInt(process.env.NEXT_PUBLIC_MICROLAMPORTS ?? "1001") }));
   tx = tx.setAddressLookupTables(luts);
