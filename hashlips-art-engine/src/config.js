@@ -2,7 +2,7 @@ const basePath = process.cwd();
 const { MODE } = require(`${basePath}/constants/blend_mode.js`);
 const { NETWORK } = require(`${basePath}/constants/network.js`);
 
-const network = NETWORK.eth;
+const network = NETWORK.sol;
 
 // General metadata for Ethereum
 const namePrefix = "LU NFT";
@@ -15,7 +15,7 @@ const solanaMetadata = {
   external_url: "https://www.lu.lv/",
   creators: [
     {
-      address: "0xD5e9E1A5c4E493008B39e618F4D1cD79E427929B",
+      address: "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
       share: 100,
     },
   ],
