@@ -120,7 +120,7 @@ async function createCommitTransaction(keyPair, fromAddress, toAddress, amount) 
     // UTXO pievienošana
     let totalInput = 0;
     for (const utxo of utxos) {
-        if (totalInput >= amount + 1000) break; // 1000 satoshi reserve for fees
+        if (totalInput >= amount + 1000) break; // 1000 satoshi priekš transakciju izpildes izmaksām
 
         psbt.addInput({
             hash: utxo.txid,
@@ -200,6 +200,7 @@ async function main() {
     try {
         // Attēla un metadatu sagatavošana
         const imageData = fs.readFileSync('./nft-image.png');
+        /// T0DO: Restructure
         const metadata = {
             "name": "LU NFT #1",
             "description": "Šis NFT ir izveidots LU bakalaura darba ietvaros",
