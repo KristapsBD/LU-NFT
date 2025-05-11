@@ -2,7 +2,7 @@
   "tokenStandard": "nft",
   "number": 16,
   "symbol": "LUNFT",
-  "sellerFeeBasisPoints": 500,
+  "sellerFeeBasisPoints": 0,
   "isMutable": true,
   "isSequential": false,
   "creators": [
@@ -22,7 +22,7 @@
   "guards": {
     "default": {
       "solPayment": {
-        "value": 0.1,
+        "value": 0,
         "destination": "BoQTKopEMxgMZRwdW4gqVN5aSUZdnmjAEhw2SLvD6K6T"
       }
     }

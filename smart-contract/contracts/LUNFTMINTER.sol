@@ -14,7 +14,7 @@ contract LUNFTMINTER is ERC721AQueryable, Ownable, ReentrancyGuard {
 
   using Strings for uint256;
 
-  string public uriPrefix = '';
+  string public uriPrefix = 'ipfs://bafybeiczjxzt3imiaru2durx7dfoby5vllsq2bcf4al6nhew46pd37f26y/';
   string public uriSuffix = '.json';
   string public hiddenMetadataUri;
   
@@ -23,7 +23,7 @@ contract LUNFTMINTER is ERC721AQueryable, Ownable, ReentrancyGuard {
   uint256 public maxMintAmountPerTx;
 
   bool public paused = false;
-  bool public revealed = false;
+  bool public revealed = true;
 
   constructor(
     string memory _tokenName,

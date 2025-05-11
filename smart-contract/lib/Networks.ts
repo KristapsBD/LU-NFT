@@ -31,7 +31,7 @@ export const ethereumTestnet: NetworkConfigInterface = {
   symbol: 'ETH (test)',
   blockExplorer: {
     name: 'Etherscan (Sepolia)',
-    generateContractUrl: (contractAddress: string) => `https://goerli.etherscan.io/address/${contractAddress}`,
+    generateContractUrl: (contractAddress: string) => `https://sepolia.etherscan.io/address/${contractAddress}`,
     generateTransactionUrl: (transactionAddress: string) => `https://sepolia.etherscan.io/tx/${transactionAddress}`,
   },
 }

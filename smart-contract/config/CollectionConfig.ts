@@ -11,11 +11,11 @@ const CollectionConfig: CollectionConfigInterface = {
   contractName: "LUNFTMINTER",
   tokenName: "Latvijas Universitātes NFT",
   tokenSymbol: "LUNFT",
-  hiddenMetadataUri: "ipfs://__CID__/hidden.json",
+  hiddenMetadataUri: "ipfs://__CID__/hidden.json", // Not used
   maxSupply: 50,
-  mintPrice: 0.015,
-  maxMintAmountPerTx: 5,
-  contractAddress: "0xCfbDb585aEd4a31E73aeBaC14aAa4FA9533Dc461",
+  mintPrice: 0,
+  maxMintAmountPerTx: 50,
+  contractAddress: "0x2CE471C4B360d2d6F9219E33BB92A6C6aFdDA05E",
   marketplaceIdentifier: "lu-nft",
   marketplaceConfig: Marketplaces.openSea,
 };
