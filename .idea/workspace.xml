@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f766b81d-3dc8-4b60-94b8-6c1a447fbf8d" name="Changes" comment="" />
+    <list default="true" id="f766b81d-3dc8-4b60-94b8-6c1a447fbf8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/LU-NFT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashlips-art-engine/assets-example/bitcoin/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashlips-art-engine/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/hashlips-art-engine/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hashlips-art-engine/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/hashlips-art-engine/src/config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,5 +86,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
 </project>

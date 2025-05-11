@@ -49,12 +49,11 @@ build/Release
 
 # Dependency directories
 
-#TODO: RE add build folder to gitignore
 #build/
 dist/
 node_modules/
 jspm_packages/
-layers/
+#layers/
 
 # TypeScript v1 declaration files
 

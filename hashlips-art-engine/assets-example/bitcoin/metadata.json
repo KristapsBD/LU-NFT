@@ -1,0 +1,162 @@
+[
+  {
+    "file": "1.png",
+    "meta": {
+      "name": "LU NFT #1",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Black"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "48"
+        }
+      ]
+    }
+  },
+  {
+    "file": "2.png",
+    "meta": {
+      "name": "LU NFT #2",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "White"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "17"
+        }
+      ]
+    }
+  },
+  {
+    "file": "3.png",
+    "meta": {
+      "name": "LU NFT #3",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Black"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "24"
+        }
+      ]
+    }
+  },
+  {
+    "file": "4.png",
+    "meta": {
+      "name": "LU NFT #4",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "White"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "18"
+        }
+      ]
+    }
+  },
+  {
+    "file": "5.png",
+    "meta": {
+      "name": "LU NFT #5",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "White"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "79"
+        }
+      ]
+    }
+  },
+  {
+    "file": "6.png",
+    "meta": {
+      "name": "LU NFT #6",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Black"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "85"
+        }
+      ]
+    }
+  },
+  {
+    "file": "7.png",
+    "meta": {
+      "name": "LU NFT #7",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "White"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "63"
+        }
+      ]
+    }
+  },
+  {
+    "file": "8.png",
+    "meta": {
+      "name": "LU NFT #8",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Black"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "37"
+        }
+      ]
+    }
+  },
+  {
+    "file": "9.png",
+    "meta": {
+      "name": "LU NFT #9",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Black"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "100"
+        }
+      ]
+    }
+  },
+  {
+    "file": "10.png",
+    "meta": {
+      "name": "LU NFT #10",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Black"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "96"
+        }
+      ]
+    }
+  }
+]

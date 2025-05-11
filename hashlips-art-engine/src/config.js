@@ -7,7 +7,10 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "LU NFT";
 const description = "Developed as part of a bachelor's thesis research at the University of Latvia.";
-const baseUri = "ipfs://NewUriToReplace";
+const baseUri = "ipfs://bafybeiefikiokb7fpmad5w5bkl7t73dpz3xobbimb57eufx4o5psmfwyzy";
+
+// ETH deployer address: 0xD5e9E1A5c4E493008B39e618F4D1cD79E427929B
+// SOL deployer address: 6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege
 
 const solanaMetadata = {
   symbol: "LUNFT",
