@@ -1,0 +1,1702 @@
+[
+  {
+    "name": "LU NFT #0",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "0.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 0,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "84"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #1",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "1.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "19"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #2",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "2.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "32"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #3",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "3.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "46"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "3.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #4",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "4.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "47"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "4.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #5",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "5.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "90"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "5.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #6",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "6.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "60"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "6.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #7",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "7.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 7,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "35"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "7.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #8",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "8.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "56"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "8.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #9",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "9.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "79"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "9.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #10",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "10.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "39"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "10.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #11",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "11.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 11,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "53"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "11.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #12",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "12.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 12,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "11"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "12.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #13",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "13.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 13,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "70"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "13.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #14",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "14.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 14,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "64"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "14.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #15",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "15.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 15,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "6"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "15.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #16",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "16.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 16,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "18"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "16.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #17",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "17.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 17,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "38"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "17.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #18",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "18.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 18,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "67"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "18.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #19",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "19.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 19,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "78"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "19.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #20",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "20.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 20,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "34"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "20.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #21",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "21.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 21,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "99"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "21.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #22",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "22.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 22,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "26"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "22.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #23",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "23.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 23,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "12"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "23.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #24",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "24.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 24,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "29"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "24.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #25",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "25.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 25,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "71"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "25.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #26",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "26.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 26,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "58"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "26.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #27",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "27.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 27,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "61"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "27.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #28",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "28.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 28,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "25"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "28.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #29",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "29.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 29,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "46"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "29.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #30",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "30.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 30,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "32"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "30.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #31",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "31.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 31,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "90"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "31.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #32",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "32.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 32,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "20"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "32.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #33",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "33.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 33,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "65"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "33.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #34",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "34.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 34,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "56"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "34.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #35",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "35.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 35,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "83"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "35.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #36",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "36.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 36,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "4"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "36.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #37",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "37.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 37,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "20"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "37.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #38",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "38.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 38,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "94"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "38.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #39",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "39.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 39,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "77"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "39.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #40",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "40.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 40,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "53"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "40.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #41",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "41.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 41,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "13"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "41.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #42",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "42.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 42,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "35"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "42.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #43",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "43.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 43,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "92"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "43.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #44",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "44.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 44,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "52"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "44.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #45",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "45.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 45,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "21"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "45.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #46",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "46.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 46,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "43"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "46.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #47",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "47.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 47,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "73"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "47.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #48",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "48.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 48,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "60"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "48.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  },
+  {
+    "name": "LU NFT #49",
+    "symbol": "LUNFT",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "seller_fee_basis_points": 0,
+    "image": "49.png",
+    "external_url": "https://www.lu.lv/",
+    "edition": 49,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "8"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "49.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+          "share": 100
+        }
+      ]
+    }
+  }
+]

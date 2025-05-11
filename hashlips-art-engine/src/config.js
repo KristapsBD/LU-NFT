@@ -2,7 +2,7 @@ const basePath = process.cwd();
 const { MODE } = require(`${basePath}/constants/blend_mode.js`);
 const { NETWORK } = require(`${basePath}/constants/network.js`);
 
-const network = NETWORK.eth;
+const network = NETWORK.sol;
 
 // General metadata for Ethereum
 const namePrefix = "LU NFT";
@@ -14,7 +14,7 @@ const baseUri = "ipfs://bafybeiefikiokb7fpmad5w5bkl7t73dpz3xobbimb57eufx4o5psmfw
 
 const solanaMetadata = {
   symbol: "LUNFT",
-  seller_fee_basis_points: 500, // Define how much % you want from secondary market sales 1000 = 10%
+  seller_fee_basis_points: 0, // Define how much % you want from secondary market sales 1000 = 10%
   external_url: "https://www.lu.lv/",
   creators: [
     {

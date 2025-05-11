@@ -1,25 +1,25 @@
 {
-  "name": "LU NFT #0",
+  "name": "LU NFT #7",
   "symbol": "LUNFT",
   "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-  "seller_fee_basis_points": 500,
-  "image": "0.png",
+  "seller_fee_basis_points": 0,
+  "image": "7.png",
   "external_url": "https://www.lu.lv/",
-  "edition": 0,
+  "edition": 7,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "White"
+      "value": "Black"
     },
     {
       "trait_type": "Avatar",
-      "value": "avatar_48"
+      "value": "35"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "0.png",
+        "uri": "7.png",
         "type": "image/png"
       }
     ],

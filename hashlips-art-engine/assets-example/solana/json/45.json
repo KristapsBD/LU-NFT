@@ -1,0 +1,34 @@
+{
+  "name": "LU NFT #45",
+  "symbol": "LUNFT",
+  "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+  "seller_fee_basis_points": 0,
+  "image": "45.png",
+  "external_url": "https://www.lu.lv/",
+  "edition": 45,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Avatar",
+      "value": "21"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "45.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6jKC6jdqiLjWxHtstyi3hS3SdjeRjESUYwzXwr7o6Ege",
+        "share": 100
+      }
+    ]
+  }
+}
