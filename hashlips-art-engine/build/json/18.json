@@ -2,17 +2,17 @@
   "name": "LU NFT #18",
   "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
   "image": "ipfs://NewUriToReplace/18.png",
-  "dna": "789bba71512900ba76765959286688ae1493598c",
+  "dna": "2120f0498bb76d6b503667cb1f316148ae4a62e3",
   "edition": 18,
-  "date": 1746984419270,
+  "date": 1746985593691,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Black"
+      "value": "White"
     },
     {
       "trait_type": "Avatar",
-      "value": "49"
+      "value": "76"
     }
   ]
 }

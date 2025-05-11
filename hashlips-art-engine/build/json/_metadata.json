@@ -3,9 +3,9 @@
     "name": "LU NFT #1",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/1.png",
-    "dna": "063b91d39aa664e1f7b062c613654bf23f7c727f",
+    "dna": "4d3123ee69d1691102e47e0c5d00a45557a742be",
     "edition": 1,
-    "date": 1746984419075,
+    "date": 1746985593414,
     "attributes": [
       {
         "trait_type": "Background",
@@ -13,7 +13,7 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "31"
+        "value": "48"
       }
     ]
   },
@@ -21,17 +21,17 @@
     "name": "LU NFT #2",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/2.png",
-    "dna": "ca8b34284faf60ae882541a8f5a43860ee20b5d0",
+    "dna": "8b896ca5c2c5279c40f5235bd044e60379058c21",
     "edition": 2,
-    "date": 1746984419089,
+    "date": 1746985593433,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Black"
+        "value": "White"
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_14"
+        "value": "17"
       }
     ]
   },
@@ -39,9 +39,9 @@
     "name": "LU NFT #3",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/3.png",
-    "dna": "ca7ff4ac81882db37f3dbae11897c3f2d1c4bc8e",
+    "dna": "5af0d7c1992274291721b1c2f0f411865872606f",
     "edition": 3,
-    "date": 1746984419100,
+    "date": 1746985593449,
     "attributes": [
       {
         "trait_type": "Background",
@@ -49,7 +49,7 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "32"
+        "value": "24"
       }
     ]
   },
@@ -57,17 +57,17 @@
     "name": "LU NFT #4",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/4.png",
-    "dna": "326111e2d4fdf838c95ae02ffc82d0213a7f8b98",
+    "dna": "f839d4162c030cc9965ae786214c36ce99d0f4c6",
     "edition": 4,
-    "date": 1746984419112,
+    "date": 1746985593465,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Black"
+        "value": "White"
       },
       {
         "trait_type": "Avatar",
-        "value": "10"
+        "value": "18"
       }
     ]
   },
@@ -75,17 +75,17 @@
     "name": "LU NFT #5",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/5.png",
-    "dna": "42b05099c5f6f0656257122a1f43fb50fdf501a1",
+    "dna": "407d87c81e1a207957ff68ccd30bf34bd20f9610",
     "edition": 5,
-    "date": 1746984419123,
+    "date": 1746985593480,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Black"
+        "value": "White"
       },
       {
         "trait_type": "Avatar",
-        "value": "78"
+        "value": "79"
       }
     ]
   },
@@ -93,9 +93,9 @@
     "name": "LU NFT #6",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/6.png",
-    "dna": "991b89c0861aec2182631429996bbbe3951b2ae0",
+    "dna": "eaf4613c5fbd4059892c6a24435b1b79d2bd2138",
     "edition": 6,
-    "date": 1746984419135,
+    "date": 1746985593496,
     "attributes": [
       {
         "trait_type": "Background",
@@ -103,7 +103,7 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "40"
+        "value": "85"
       }
     ]
   },
@@ -111,17 +111,17 @@
     "name": "LU NFT #7",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/7.png",
-    "dna": "6f2efd41f08668e5ca82179b7053b484d4a46296",
+    "dna": "c8f5731be2db06669e002796f98dfcebb1f08bb5",
     "edition": 7,
-    "date": 1746984419146,
+    "date": 1746985593512,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Black"
+        "value": "White"
       },
       {
         "trait_type": "Avatar",
-        "value": "90"
+        "value": "63"
       }
     ]
   },
@@ -129,17 +129,17 @@
     "name": "LU NFT #8",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/8.png",
-    "dna": "0a54623758c70c20fd305ce8672cd05913e40a4e",
+    "dna": "2d544d4def2d7db793e3f09c7650e95b15188af8",
     "edition": 8,
-    "date": 1746984419157,
+    "date": 1746985593528,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "White"
+        "value": "Black"
       },
       {
         "trait_type": "Avatar",
-        "value": "53"
+        "value": "37"
       }
     ]
   },
@@ -147,17 +147,17 @@
     "name": "LU NFT #9",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/9.png",
-    "dna": "a2c47efa682dcb97313e6eeb198a7157b7129a4c",
+    "dna": "b144aecfe33ae900ac628022c99241d0c99606eb",
     "edition": 9,
-    "date": 1746984419169,
+    "date": 1746985593544,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "White"
+        "value": "Black"
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_21"
+        "value": "100"
       }
     ]
   },
@@ -165,9 +165,9 @@
     "name": "LU NFT #10",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/10.png",
-    "dna": "63555f605761816f10d6c3a69bbac0454f2ed505",
+    "dna": "2218cdf504d93c0ffefd88578cef348cdf820564",
     "edition": 10,
-    "date": 1746984419179,
+    "date": 1746985593559,
     "attributes": [
       {
         "trait_type": "Background",
@@ -175,7 +175,7 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_37"
+        "value": "96"
       }
     ]
   },
@@ -183,45 +183,9 @@
     "name": "LU NFT #11",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/11.png",
-    "dna": "db7fd281a9d342d72e4612f0c6e63e65e245ac01",
+    "dna": "db0356a407e504b80c6b96e0a97dd6c582e22bfb",
     "edition": 11,
-    "date": 1746984419192,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "White"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "avatar_58"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #12",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/12.png",
-    "dna": "cf95f1a1ef9b3e41364f3157302267ff01243fd0",
-    "edition": 12,
-    "date": 1746984419203,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "White"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "86"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #13",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/13.png",
-    "dna": "eaf53dc1f838ecae8d73f0b53f53639a8ef7047e",
-    "edition": 13,
-    "date": 1746984419215,
+    "date": 1746985593576,
     "attributes": [
       {
         "trait_type": "Background",
@@ -229,53 +193,17 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "54"
+        "value": "82"
       }
     ]
   },
   {
-    "name": "LU NFT #14",
+    "name": "LU NFT #12",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/14.png",
-    "dna": "0b3d1d5480d918d698038ccc590ae547c321656c",
-    "edition": 14,
-    "date": 1746984419226,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "White"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "avatar_18"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #15",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/15.png",
-    "dna": "d5aa32849ae7fc0ef74f5f68e7c7370a035ed443",
-    "edition": 15,
-    "date": 1746984419237,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "White"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "avatar_16"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #16",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/16.png",
+    "image": "ipfs://NewUriToReplace/12.png",
     "dna": "ad40b905de93a09f4edc13f6ac38c766366e00a6",
-    "edition": 16,
-    "date": 1746984419247,
+    "edition": 12,
+    "date": 1746985593591,
     "attributes": [
       {
         "trait_type": "Background",
@@ -288,34 +216,16 @@
     ]
   },
   {
-    "name": "LU NFT #17",
+    "name": "LU NFT #13",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/17.png",
-    "dna": "922f9feee725f15c47d427d52216185d55bf3a7f",
-    "edition": 17,
-    "date": 1746984419259,
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "b8b9436cfa683e8cae51f871290e8e3cf5c0d331",
+    "edition": 13,
+    "date": 1746985593606,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "White"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "avatar_81"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #18",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/18.png",
-    "dna": "789bba71512900ba76765959286688ae1493598c",
-    "edition": 18,
-    "date": 1746984419270,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
       },
       {
         "trait_type": "Avatar",
@@ -324,12 +234,12 @@
     ]
   },
   {
-    "name": "LU NFT #19",
+    "name": "LU NFT #14",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/19.png",
-    "dna": "f263c39243fc6245663d0f4b9dc778fac5fe38f9",
-    "edition": 19,
-    "date": 1746984419281,
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "4e0a2da02a50ae0ca7de3856e2f4777e523565e3",
+    "edition": 14,
+    "date": 1746985593621,
     "attributes": [
       {
         "trait_type": "Background",
@@ -337,7 +247,97 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "94"
+        "value": "13"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #15",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "63663403e71714cd2b077a7bc6596d869bcd7ba3",
+    "edition": 15,
+    "date": 1746985593637,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #16",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "9005bfb9d216a514abfa021cba935d561ee4b954",
+    "edition": 16,
+    "date": 1746985593660,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "46"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #17",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "b7c9549f822a0dc06d69c20a063b8360e88b3365",
+    "edition": 17,
+    "date": 1746985593675,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "50"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #18",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "2120f0498bb76d6b503667cb1f316148ae4a62e3",
+    "edition": 18,
+    "date": 1746985593691,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "76"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #19",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "ce88d32da3862610176fa0c166e95507da0315f4",
+    "edition": 19,
+    "date": 1746985593706,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "42"
       }
     ]
   },
@@ -345,31 +345,13 @@
     "name": "LU NFT #20",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/20.png",
-    "dna": "ba595204135932b4cb469b5fe8d20d6e7e8a4bc8",
+    "dna": "280eb62957daeb05e806e363517a9af276b8776c",
     "edition": 20,
-    "date": 1746984419294,
+    "date": 1746985593721,
     "attributes": [
       {
         "trait_type": "Background",
         "value": "White"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "avatar_47"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #21",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/21.png",
-    "dna": "11ca2d27962a0f6705bd0f64dcc12844db2a13a0",
-    "edition": 21,
-    "date": 1746984419305,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
       },
       {
         "trait_type": "Avatar",
@@ -378,30 +360,30 @@
     ]
   },
   {
-    "name": "LU NFT #22",
+    "name": "LU NFT #21",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/22.png",
-    "dna": "339aa034794f72fd3960166dfc065c18433c889b",
-    "edition": 22,
-    "date": 1746984419317,
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "e8db667663760335c7783f320c3d44130f9ff9c2",
+    "edition": 21,
+    "date": 1746985593737,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "White"
+        "value": "Black"
       },
       {
         "trait_type": "Avatar",
-        "value": "6"
+        "value": "58"
       }
     ]
   },
   {
-    "name": "LU NFT #23",
+    "name": "LU NFT #22",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/23.png",
+    "image": "ipfs://NewUriToReplace/22.png",
     "dna": "92015862123daca6388a68143dd47ba2c89c987e",
-    "edition": 23,
-    "date": 1746984419329,
+    "edition": 22,
+    "date": 1746985593752,
     "attributes": [
       {
         "trait_type": "Background",
@@ -414,30 +396,12 @@
     ]
   },
   {
-    "name": "LU NFT #24",
+    "name": "LU NFT #23",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/24.png",
-    "dna": "d0a4bdc716b8e33783bedbe593c912f8cd9ea06d",
-    "edition": 24,
-    "date": 1746984419339,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "White"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "avatar_43"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #25",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/25.png",
-    "dna": "9882bac8b1e6317dae55551115495a2b2a95835d",
-    "edition": 25,
-    "date": 1746984419353,
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "061b83bd884ece26314c35f5be0d7ff0ff8aba93",
+    "edition": 23,
+    "date": 1746985593768,
     "attributes": [
       {
         "trait_type": "Background",
@@ -445,7 +409,43 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "64"
+        "value": "42"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #24",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "7c9644b0539165221b810cb999353f7eca05a93f",
+    "edition": 24,
+    "date": 1746985593784,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "22"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #25",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "4ff046672f8906255c166ae0d62e28ff87542791",
+    "edition": 25,
+    "date": 1746985593801,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "5"
       }
     ]
   },
@@ -453,9 +453,117 @@
     "name": "LU NFT #26",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/26.png",
-    "dna": "cfbcdc7a9fa64ad1786ac691b69889ad14b3f786",
+    "dna": "31271e1992323817f442073fb1a42244cb4fd971",
     "edition": 26,
-    "date": 1746984419363,
+    "date": 1746985593817,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "61"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #27",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "02ed5be396ae828b6c583c9cf5d09e91bf671727",
+    "edition": 27,
+    "date": 1746985593832,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "26"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #28",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "d6b922843063c4107f443f9f449e18f37dc1a786",
+    "edition": 28,
+    "date": 1746985593847,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "69"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #29",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "104b07573dbadd8a0d627ffc85e0e115224588af",
+    "edition": 29,
+    "date": 1746985593862,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "16"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #30",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "f263c39243fc6245663d0f4b9dc778fac5fe38f9",
+    "edition": 30,
+    "date": 1746985593878,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "94"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #31",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "7e028cec73c9266df22d50ac6648656f1e490b72",
+    "edition": 31,
+    "date": 1746985593893,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "15"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #32",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "cfbcdc7a9fa64ad1786ac691b69889ad14b3f786",
+    "edition": 32,
+    "date": 1746985593908,
     "attributes": [
       {
         "trait_type": "Background",
@@ -468,128 +576,20 @@
     ]
   },
   {
-    "name": "LU NFT #27",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/27.png",
-    "dna": "e666a2e3af945bd86347e2dd8eea669ad67bd7bb",
-    "edition": 27,
-    "date": 1746984419375,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "White"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "28"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #28",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/28.png",
-    "dna": "820357bff451653f7e3b43f4e450ffbb36fd416c",
-    "edition": 28,
-    "date": 1746984419388,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "avatar_3"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #29",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/29.png",
-    "dna": "adbd37b20b96ad9cb99638d8904f399857b60e7f",
-    "edition": 29,
-    "date": 1746984419399,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "avatar_75"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #30",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/30.png",
-    "dna": "4f4931e7476a122819a4ce018f257066df17a3f0",
-    "edition": 30,
-    "date": 1746984419412,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "81"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #31",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/31.png",
-    "dna": "d3585801d3a447e49096afc03a0e93ced16bc4a1",
-    "edition": 31,
-    "date": 1746984419424,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "Black"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "avatar_45"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #32",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/32.png",
-    "dna": "ac530ecdbc1a4095ab238e3a75c6e28d6fd6955c",
-    "edition": 32,
-    "date": 1746984419436,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "White"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "avatar_76"
-      }
-    ]
-  },
-  {
     "name": "LU NFT #33",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/33.png",
-    "dna": "892369936a97cc3b5833cf2b5c9c7eed2ba940e2",
+    "dna": "09a259e13b5e8ad714cc4f5f7ee5c84936993a63",
     "edition": 33,
-    "date": 1746984419449,
+    "date": 1746985593923,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "White"
+        "value": "Black"
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_59"
+        "value": "21"
       }
     ]
   },
@@ -597,9 +597,9 @@
     "name": "LU NFT #34",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/34.png",
-    "dna": "2966339f6b73b75d0d5e22d88ce5cfb3c8841148",
+    "dna": "cde90c36a144647f8fa8fb203caecd7b9c08a838",
     "edition": 34,
-    "date": 1746984419460,
+    "date": 1746985593939,
     "attributes": [
       {
         "trait_type": "Background",
@@ -607,7 +607,7 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_30"
+        "value": "41"
       }
     ]
   },
@@ -615,17 +615,17 @@
     "name": "LU NFT #35",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/35.png",
-    "dna": "06e34a481adb5a819797caec3b24135fcd372a27",
+    "dna": "bc5b3e34176b446805d7e031e36ff49cf5b1a059",
     "edition": 35,
-    "date": 1746984419473,
+    "date": 1746985593954,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Black"
+        "value": "White"
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_57"
+        "value": "51"
       }
     ]
   },
@@ -633,17 +633,17 @@
     "name": "LU NFT #36",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/36.png",
-    "dna": "d31e8dca8033647cb06ca4ba2e791aa887bab921",
+    "dna": "da1d6d0bf5506a912b08070d0f61fee4ff56a3f9",
     "edition": 36,
-    "date": 1746984419483,
+    "date": 1746985593970,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Black"
+        "value": "White"
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_99"
+        "value": "83"
       }
     ]
   },
@@ -651,9 +651,9 @@
     "name": "LU NFT #37",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/37.png",
-    "dna": "d9320848f63a8b0c2846a627a9f18533fb02d58f",
+    "dna": "660cd9ae15d9cd7db26ef6dff845384657d91d29",
     "edition": 37,
-    "date": 1746984419496,
+    "date": 1746985593986,
     "attributes": [
       {
         "trait_type": "Background",
@@ -661,7 +661,7 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_51"
+        "value": "26"
       }
     ]
   },
@@ -669,9 +669,9 @@
     "name": "LU NFT #38",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/38.png",
-    "dna": "b16df2b2daf500c4e311aa78cf66eb92202c6f95",
+    "dna": "531234f230c28c35ec725c19460565919d95121c",
     "edition": 38,
-    "date": 1746984419508,
+    "date": 1746985594001,
     "attributes": [
       {
         "trait_type": "Background",
@@ -679,7 +679,7 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_89"
+        "value": "11"
       }
     ]
   },
@@ -687,9 +687,9 @@
     "name": "LU NFT #39",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/39.png",
-    "dna": "08a12d4633a6caf286665749926bf8c3822f1697",
+    "dna": "6fab5cfde65bc52b929ed36a8c9e587821fbf96a",
     "edition": 39,
-    "date": 1746984419519,
+    "date": 1746985594016,
     "attributes": [
       {
         "trait_type": "Background",
@@ -697,7 +697,7 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_32"
+        "value": "10"
       }
     ]
   },
@@ -705,17 +705,17 @@
     "name": "LU NFT #40",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/40.png",
-    "dna": "44bcf7371a2035d4c23b5872c7f4753cef9fc956",
+    "dna": "3deb387dd50b075251895f922a30207d4cfa1d76",
     "edition": 40,
-    "date": 1746984419532,
+    "date": 1746985594031,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "Black"
+        "value": "White"
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_23"
+        "value": "98"
       }
     ]
   },
@@ -723,9 +723,9 @@
     "name": "LU NFT #41",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/41.png",
-    "dna": "cf7a8b562dd4c42bf9c191dcbd889dc9e19c5ec6",
+    "dna": "8b9a7737909455777f30e8126535979e64402201",
     "edition": 41,
-    "date": 1746984419543,
+    "date": 1746985594046,
     "attributes": [
       {
         "trait_type": "Background",
@@ -733,7 +733,7 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_42"
+        "value": "75"
       }
     ]
   },
@@ -741,27 +741,9 @@
     "name": "LU NFT #42",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/42.png",
-    "dna": "4cc21d418505ff28d9a9cfc620f08876c85f8702",
+    "dna": "42b05099c5f6f0656257122a1f43fb50fdf501a1",
     "edition": 42,
-    "date": 1746984419554,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "White"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "73"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #43",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/43.png",
-    "dna": "97d208e647e2840760afc5074b31f70f5c659216",
-    "edition": 43,
-    "date": 1746984419565,
+    "date": 1746985594061,
     "attributes": [
       {
         "trait_type": "Background",
@@ -769,7 +751,25 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_25"
+        "value": "78"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #43",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/43.png",
+    "dna": "462333bae53fed649b8141bc40a9520d7624c4be",
+    "edition": 43,
+    "date": 1746985594076,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "68"
       }
     ]
   },
@@ -777,17 +777,17 @@
     "name": "LU NFT #44",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/44.png",
-    "dna": "997e36d430114b9fc02398cb06446f17b819cd95",
+    "dna": "60d430325991f91385f06e8a7f14165a6de121f7",
     "edition": 44,
-    "date": 1746984419575,
+    "date": 1746985594092,
     "attributes": [
       {
         "trait_type": "Background",
-        "value": "White"
+        "value": "Black"
       },
       {
         "trait_type": "Avatar",
-        "value": "30"
+        "value": "45"
       }
     ]
   },
@@ -795,9 +795,9 @@
     "name": "LU NFT #45",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/45.png",
-    "dna": "61332585ef086a5867f45cb7c86eba05260c8b72",
+    "dna": "f57e3de613c42e9b06a47620c19d09252f102648",
     "edition": 45,
-    "date": 1746984419586,
+    "date": 1746985594108,
     "attributes": [
       {
         "trait_type": "Background",
@@ -805,7 +805,7 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_64"
+        "value": "71"
       }
     ]
   },
@@ -813,9 +813,9 @@
     "name": "LU NFT #46",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/46.png",
-    "dna": "280eb62957daeb05e806e363517a9af276b8776c",
+    "dna": "f55d91e5c446503461713f1a4e1ac15edc583824",
     "edition": 46,
-    "date": 1746984419597,
+    "date": 1746985594123,
     "attributes": [
       {
         "trait_type": "Background",
@@ -823,7 +823,7 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "59"
+        "value": "3"
       }
     ]
   },
@@ -831,27 +831,9 @@
     "name": "LU NFT #47",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/47.png",
-    "dna": "05e724ce32689db42ab3ad7cea76a72aea4b0105",
-    "edition": 47,
-    "date": 1746984419607,
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "White"
-      },
-      {
-        "trait_type": "Avatar",
-        "value": "avatar_71"
-      }
-    ]
-  },
-  {
-    "name": "LU NFT #48",
-    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/48.png",
     "dna": "f655f9c3dccaf9a85de3ddb2ac3f05f253df8b5d",
-    "edition": 48,
-    "date": 1746984419618,
+    "edition": 47,
+    "date": 1746985594139,
     "attributes": [
       {
         "trait_type": "Background",
@@ -864,12 +846,12 @@
     ]
   },
   {
-    "name": "LU NFT #49",
+    "name": "LU NFT #48",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
-    "image": "ipfs://NewUriToReplace/49.png",
-    "dna": "c7a6b81c80d0f8f786e77740965bb101afa1e00e",
-    "edition": 49,
-    "date": 1746984419629,
+    "image": "ipfs://NewUriToReplace/48.png",
+    "dna": "4cc21d418505ff28d9a9cfc620f08876c85f8702",
+    "edition": 48,
+    "date": 1746985594154,
     "attributes": [
       {
         "trait_type": "Background",
@@ -877,7 +859,25 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_82"
+        "value": "73"
+      }
+    ]
+  },
+  {
+    "name": "LU NFT #49",
+    "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+    "image": "ipfs://NewUriToReplace/49.png",
+    "dna": "1df16cc75393b98973af9feec20168ab74a21d24",
+    "edition": 49,
+    "date": 1746985594169,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Avatar",
+        "value": "32"
       }
     ]
   },
@@ -885,9 +885,9 @@
     "name": "LU NFT #50",
     "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
     "image": "ipfs://NewUriToReplace/50.png",
-    "dna": "ac0aee0c1fa27951df5e21ea5a3303c2968514bc",
+    "dna": "6be6f060a554a5c9a4d7b6256e5f48fd3986f07d",
     "edition": 50,
-    "date": 1746984419639,
+    "date": 1746985594184,
     "attributes": [
       {
         "trait_type": "Background",
@@ -895,7 +895,7 @@
       },
       {
         "trait_type": "Avatar",
-        "value": "avatar_2"
+        "value": "20"
       }
     ]
   }

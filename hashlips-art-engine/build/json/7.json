@@ -2,17 +2,17 @@
   "name": "LU NFT #7",
   "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
   "image": "ipfs://NewUriToReplace/7.png",
-  "dna": "6f2efd41f08668e5ca82179b7053b484d4a46296",
+  "dna": "c8f5731be2db06669e002796f98dfcebb1f08bb5",
   "edition": 7,
-  "date": 1746984419146,
+  "date": 1746985593512,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Black"
+      "value": "White"
     },
     {
       "trait_type": "Avatar",
-      "value": "90"
+      "value": "63"
     }
   ]
 }
