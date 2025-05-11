@@ -1,145 +1,417 @@
 {
   "program": {
-    "candyMachine": "6FZk4niES9qQGKT6BTe9qoFiSD5GAjYfugwHtxU2Cqhj",
-    "candyGuard": "EFc2gNsu5r7L3Ug6tJdTChepmRt6gKjYj2qDSM6XRfTB",
-    "candyMachineCreator": "9LUg6Yzr18cHKE2aNiWQGSVjvn98ETnxEuFbuQHPh9C2",
-    "collectionMint": "8Dt4Jnv2kKvupFEmH2WJoCgF25RvPrS1pKPUrunyLB94"
+    "candyMachine": "3ZCpjMw2EDyazcegzGg1EPZP4vKWKZ3XZEs1ivcWV2gb",
+    "candyGuard": "4AqrMVtWbfFW9DpbiyzKShY4izdgYWJzPxxWBDGPhcvo",
+    "candyMachineCreator": "34kmXrqBq34HB2x5F85nyQRsyFHBpdaQk3htMExhctvX",
+    "collectionMint": "A8XsFSWdJkZT4Pe2Y6ttm6DYr9rutzk3MNMo62zXsv3C"
   },
   "items": {
     "-1": {
-      "name": "Numbers",
-      "image_hash": "2260e2f01fc7eae1a9180969d24e6f8afd72a5f6625d176ebfc2f2231d678d41",
-      "image_link": "https://gateway.irys.xyz/AzpLu7SRSetYL7Xrj7GextG9XqKZq6AHoXXRPK145FFg?ext=png",
-      "metadata_hash": "c3dc54aa03275abac15a97bac55db3e6e64c5ed1e6f64d73d87d39a296293de8",
-      "metadata_link": "https://gateway.irys.xyz/AL5dfGHvxCo1NUkW5bJyMADsKLx9M71hjW5ER4uPwkNC",
+      "name": "Latvijas Universitātes NFT",
+      "image_hash": "3b7a300f9ec74c0ed71df4852dfae1a996ccc083a37aeef29a4f63e4c1be635d",
+      "image_link": "https://gateway.irys.xyz/C33UYbXZcHzx6J9yJW33se55axULt1dLtbNBWcrqHAhC?ext=png",
+      "metadata_hash": "6edebc548a7d84fc699ae462ba1819699e1428ee90a080adbb71d65cd931492d",
+      "metadata_link": "https://gateway.irys.xyz/BWTY5s2zZJdKymn5Zw4swppRAKZkxcRVkENWU2RmBrVU",
       "onChain": true
     },
     "0": {
-      "name": "Numbers #0",
-      "image_hash": "3dc0e90a8e67c3b3cbfb57af37bf02908a52ecdffabb611931b9b92cb6d5f9c6",
-      "image_link": "https://gateway.irys.xyz/HGYQVfE2kgF7sRHJjnd11f4FXws5tk62s3qTbaXmuN13?ext=png",
-      "metadata_hash": "af17098cab722dc00db4be504680b43573b32090c385039b6c043c2953dc04ad",
-      "metadata_link": "https://gateway.irys.xyz/2PhDq2CeMws2h7FJvUTTLb3KJsncT734pJMQa8fHd5ab",
+      "name": "LU NFT #0",
+      "image_hash": "9f78a8c421996f9c44c93994393c1554d3bfbe1f83c7d4bdfbda903c078f5ed7",
+      "image_link": "https://gateway.irys.xyz/ZDj1pJpZXierHjQ8Pm7pddxCNDMESZ7i6Sk3dHprSWh?ext=png",
+      "metadata_hash": "68e4c9083bf7fd67f73d0fc6c65b93c74ab8c77467fc6135ca5b1beec4827cd0",
+      "metadata_link": "https://gateway.irys.xyz/8P4Co49ULNFQi8HjTr2vymnM3TetVFFSb2qxEH78Dbga",
       "onChain": true
     },
     "1": {
-      "name": "Numbers #1",
-      "image_hash": "1d1b54d2d8a732a11f3fb3985e429fa9aaa0442f3a9ba866c9ead915f05eed10",
-      "image_link": "https://gateway.irys.xyz/GvVFhTFuHPoorLr1YVGEQ9PM8RP7uhTRBGxyzgMahu1D?ext=png",
-      "metadata_hash": "db200bc63ab6c0b480ccced03d6783526fe9180878751601d9daaa8e51c93c23",
-      "metadata_link": "https://gateway.irys.xyz/GaMcweUiw95m8Rd7fZ3HMrTPHtRhSTh6N2e8aWAVfzde",
+      "name": "LU NFT #1",
+      "image_hash": "ca3ab603222c3145cdf68129acf8f7bea3721b60388acb6ad7b025cba14d1735",
+      "image_link": "https://gateway.irys.xyz/CsdfQ9qV7tC6yEusjs27ZQga1ckcZWkhz2Bx9dQsgpBf?ext=png",
+      "metadata_hash": "0161ae6f8c0351c54011bcc53704316bdd746bf3be36457a84b5c19f4855a501",
+      "metadata_link": "https://gateway.irys.xyz/BkFqRAhiWWgyWuLyD8FbBpK91cd2pDvcGYWuHY8UT17F",
       "onChain": true
     },
     "2": {
-      "name": "Numbers #2",
-      "image_hash": "567f8a02f7e44eedfbf67ca95cf31b9aa1ed151b17610fe71bd939536be4eefa",
-      "image_link": "https://gateway.irys.xyz/FBHMmnWHThiHkHyUqM68mgs2xsTwaLVvvhx1mZaT8mwf?ext=png",
-      "metadata_hash": "75c61d1430b38c64bd0e68cabed8e36395da9a8081c39098352a02890ceceb59",
-      "metadata_link": "https://gateway.irys.xyz/7mBnpVpQgmno4Fzte2ZB68Zy4PmsxHMGnQjWUJFH4KKs",
+      "name": "LU NFT #2",
+      "image_hash": "7b4befb158c3ce1cc587200459d8896a29f2b52a049725b147b74a34bfba389b",
+      "image_link": "https://gateway.irys.xyz/84Mrrs1RKMhfFZAZSQL3hwppzaJb5ytWeTMcmeWVEvQ9?ext=png",
+      "metadata_hash": "bac9226f11d0ae4291ae3bd70700566cc18f1ce5c7d30f2947bf07164aa53dea",
+      "metadata_link": "https://gateway.irys.xyz/H19TmumWdmSnwevUfyJPcLAvTHVCB8DiAX9gDgMA48Xb",
       "onChain": true
     },
     "3": {
-      "name": "Numbers #3",
-      "image_hash": "297e7468b1588d0c328c5d90aac027d8f6eb9fd9dc456902acb21206f9084909",
-      "image_link": "https://gateway.irys.xyz/DP3LfT3RpRkWVgYisF8Zu3HhjWs1f15eshk9nwA5DLoQ?ext=png",
-      "metadata_hash": "4d158d098728c425ce2391a813a725074852dbbb36f4b3926c831c4916f0ab54",
-      "metadata_link": "https://gateway.irys.xyz/5bFqQeRc6Vr4LoiLpXsKNyfmhpLAixpPXXS9RPydcCMf",
+      "name": "LU NFT #3",
+      "image_hash": "bc93bb81db57a445d7c4f9ef889ffecbe59e510872141412607adcf509b76f2d",
+      "image_link": "https://gateway.irys.xyz/5wcr4rM5H6AShXBJ9synDfhXjbcSQ7c4DXqRmK8RE3mU?ext=png",
+      "metadata_hash": "79fe4a65adb6bcab07ad5673c1148463cd23455c5d48466357498fb3c649d482",
+      "metadata_link": "https://gateway.irys.xyz/4qTSXf4TiJHypvUApbGf8akpRD2rEvd2XZ1JjketSM9X",
       "onChain": true
     },
     "4": {
-      "name": "Numbers #4",
-      "image_hash": "697b401f1fcaa3e5b063a7ab0d41147643bbcb81167291d419843123b207439c",
-      "image_link": "https://gateway.irys.xyz/Ee5NvtsukZmM38chbDP3nVikrLT5CgqrknUxEg2NbBtz?ext=png",
-      "metadata_hash": "e14235e35e3e196db0b1598cb07be970d1a280517ce4c5c7b193347456f5413e",
-      "metadata_link": "https://gateway.irys.xyz/6QAjD8fjxQQY1nQeJJHRKk5SZBeHznWqvpViBKqRHZxm",
+      "name": "LU NFT #4",
+      "image_hash": "beb72987f8a19aab938f7b691c8b895342313cfe22fc869c271996f6f98e2025",
+      "image_link": "https://gateway.irys.xyz/7Gv6LFqQkZEqUUVRHq4rUKSdHqPLG7N55HfirYjrA4NR?ext=png",
+      "metadata_hash": "4cde0cdbcdd6d6c67b11419b8f3b2438f107a5f0f52a1eebd55919321d37fa6b",
+      "metadata_link": "https://gateway.irys.xyz/FBkPKLDpUcqdvH3Jzd2aAAZHjYXufqH523xWCTZubfCb",
       "onChain": true
     },
     "5": {
-      "name": "Numbers #5",
-      "image_hash": "7590ff782a1cc891fd943a4cf79cc1e74cbcf8ce8f0dd0e81e5568e04b22e110",
-      "image_link": "https://gateway.irys.xyz/CYUYnXNMS2Lg3mxA82s8jEYoPWXvQ6DivN8KU65NTTtj?ext=png",
-      "metadata_hash": "7c594512b1adb4c79fa15b3f803c6fce99953d71847e15f3e5ea47d781b1e1d0",
-      "metadata_link": "https://gateway.irys.xyz/9iJA6ftN8XRjG7FTKnhjbeK7k7RXu2ZWqiNDN5XvqCzt",
+      "name": "LU NFT #5",
+      "image_hash": "90bc38d18f798cfaba8b69e0d9b80af24c585057b03961e98cb77158c5de8368",
+      "image_link": "https://gateway.irys.xyz/FfXA349aGVjEm9AAvpFgG6DUhaRAywXCjByj91CqQ8N3?ext=png",
+      "metadata_hash": "f5519faf6a0b9a7456171e5b214ebe77694a47b8c8e61b37d5ff5a9c2bb9039a",
+      "metadata_link": "https://gateway.irys.xyz/3XvRM8fFZc3xFzvhtyfYn9Rpv4RsXmStKwBH8qzmsuJx",
       "onChain": true
     },
     "6": {
-      "name": "Numbers #6",
-      "image_hash": "c2748badccf9fa8b84de0aeda6cdf1c44b8815140f80d852d15d5e8acf56bb2a",
-      "image_link": "https://gateway.irys.xyz/6WyoKmpkUxcvgZou3qYgXhU6oXLYZLerthT7jFb1rt5a?ext=png",
-      "metadata_hash": "737360098509e553a953285afe14bdb99527d75f45d2a544278a4fb05a67bd99",
-      "metadata_link": "https://gateway.irys.xyz/CSmTWaAw6G7HSaYEEHbAy3zpc4L5EWNqqcZu5sdobmhm",
+      "name": "LU NFT #6",
+      "image_hash": "2c369e0ff677d96894f09d8c0dc0bcd7b402dc79d15a23a2725f7eb535cba1cd",
+      "image_link": "https://gateway.irys.xyz/AAsFP8yWE4UUkVHv8okAFRsM3WQ6pvrWF7bBuCERtEsQ?ext=png",
+      "metadata_hash": "7e9f4b594e5b1c9a43a861aeb60e3f6fed4430f07d9197e4f5b1630276813c4c",
+      "metadata_link": "https://gateway.irys.xyz/8mVZiZbt2Mw5AuhW5u96JZcnFC5xpYj2Agb2ZhcziHah",
       "onChain": true
     },
     "7": {
-      "name": "Numbers #7",
-      "image_hash": "68f447680c546293c94eff6cfc9d7d049644daba75b7cb9b2b45045672789751",
-      "image_link": "https://gateway.irys.xyz/AkVgoDoLthhMqQ281piRwFt3BL3apoyWMfeQGe8ioJzu?ext=png",
-      "metadata_hash": "1bdc81fd194bb6552cfd69a866d3b99d76b2eec9e9fd6086eff682963022adfe",
-      "metadata_link": "https://gateway.irys.xyz/FgXNZgFs3AquffpWrt2c1hgXzDsGnxc7ZnQMUw1GfXZc",
+      "name": "LU NFT #7",
+      "image_hash": "f8ceac46674ba7380a2efae0ef5dcaee300ff1cbc44be4a0af87562a54af4aab",
+      "image_link": "https://gateway.irys.xyz/2Jpbzr61wsTw3u9UjJS5nhwvS9oEBBZ8URteG6RzSFT7?ext=png",
+      "metadata_hash": "99ea47e88c2dc6c2c5666d017b22747db135e3e27fbc625c8d7b68793c6151b8",
+      "metadata_link": "https://gateway.irys.xyz/3jgNYswrFHRjfrF87bQ7FT1KSiNbDw3t9cYgEPu5X6wd",
       "onChain": true
     },
     "8": {
-      "name": "Numbers #8",
-      "image_hash": "6c2012321ff68c945d2d488ea4c9441ad26ea6afde47ca0d1457fa6c5affd6f7",
-      "image_link": "https://gateway.irys.xyz/8eosAHYR4hX7VtcrYKxtMeTNPpF8auRCS6jh7L2k5kX9?ext=png",
-      "metadata_hash": "db1d969786cbdb188cced03a32652bb5031257335bd1a32c162e6c7d9f2e5c22",
-      "metadata_link": "https://gateway.irys.xyz/9bjGA1mgLhhivTM7KzB5VWzcffkZok4cRiDFisKegLT1",
+      "name": "LU NFT #8",
+      "image_hash": "0e96900b980cf1442b5bfc70c15f341863da5353c61be0e79dc63fc6017da0b7",
+      "image_link": "https://gateway.irys.xyz/Fi2Q8Zn9Hnx2UZYoVeuw8G6wqyM4w8QrPeg7kMx4jtU5?ext=png",
+      "metadata_hash": "4b64c2207e732c8d48b3710233a41a9bfdac108d5776219750e60f8c6b49e40f",
+      "metadata_link": "https://gateway.irys.xyz/DMZ7oUGUwxyxZJjmTBYFrzDLQTW9tVARnNCMxKx4mC47",
       "onChain": true
     },
     "9": {
-      "name": "Numbers #9",
-      "image_hash": "a77904e594f78853946c55d538d83e20120b06096bdffc8dbad8f720d9a2ee1d",
-      "image_link": "https://gateway.irys.xyz/FvBP5QML8DnLxrAiw3a8hJqZNpvkYWzbE2LqEawRrc3f?ext=png",
-      "metadata_hash": "62dc2a3c3418c6a14b9d437c7721e7394237808c8348f58957314eab3429812f",
-      "metadata_link": "https://gateway.irys.xyz/5ZGj2KppaapFLAerJcrF7NyGjjEsWFuGbuHhuvE1XaJK",
+      "name": "LU NFT #9",
+      "image_hash": "253b9193c4df86325b0dd88d45fe3e46a65aca7d08d7a5634b392b5f98af461b",
+      "image_link": "https://gateway.irys.xyz/DPySv1YqE2TRUQYfUDHGDfArHXrxALbcYXWEN47NyDCk?ext=png",
+      "metadata_hash": "c970211772dd08dbc02d7fa9ffccb924cdcb34a7c33d096635e5b1970e88c5ec",
+      "metadata_link": "https://gateway.irys.xyz/CbpYWs7ccP8koZxYM7PwEt7oUxEsAQz5o842CNgBktbq",
       "onChain": true
     },
     "10": {
-      "name": "Numbers #10",
-      "image_hash": "aaf54b48fe0599a790cec6317c75f403fad1f54c214b176b72331ea02e334881",
-      "image_link": "https://gateway.irys.xyz/24NFYffUAFfM7EJpVSdgmHt8fecqaPdExniVRhYxnSJ9?ext=png",
-      "metadata_hash": "bddf9ca1d795b2d0e0ff570a5dc48d97c40321973c02bc55789c0165c4698024",
-      "metadata_link": "https://gateway.irys.xyz/CQvNeKSiA2ctaGFqhnN2ADaFFS7o29ZN44brJBChxxko",
+      "name": "LU NFT #10",
+      "image_hash": "760c6b9f8e6784ebfe05c1fd95b98d4a65a85f7481cfff4e3490c59eb911e15a",
+      "image_link": "https://gateway.irys.xyz/CgyqXBYGWJcswLn92Mx4PMR4xS8ve4AcxNurQgCVTNCP?ext=png",
+      "metadata_hash": "bfec18a19eb399d2b3c0caa069ab302ec6459086a1064f72a6665c04789710bb",
+      "metadata_link": "https://gateway.irys.xyz/F2NUyHXsfJkkLZV8jqT9F5Enq4qRfSPyQzu4rWd2iXkw",
       "onChain": true
     },
     "11": {
-      "name": "Numbers #11",
-      "image_hash": "3d368e27bb8da9f1daeb2fa8d6c580def566c395e6f8805c0dac23dd507c9c7f",
-      "image_link": "https://gateway.irys.xyz/6Hui2ksqqqKCCfrL9j11gvP5rfrEiCPqBE75DPrD1UxC?ext=png",
-      "metadata_hash": "d9749ea02aaf46d290b033c723ed8d798c9c947f03151b0a6fcf6a33c47464e0",
-      "metadata_link": "https://gateway.irys.xyz/GydBmKbbN8Hsx4iXwe8wikgo7cNMxoU5xkcHVpRV5pSg",
+      "name": "LU NFT #11",
+      "image_hash": "c2246b7f0a37e64828a85bbb87b73f1fb87fef708f5a4c4d20e74d8688cf3068",
+      "image_link": "https://gateway.irys.xyz/6MHXoHzsV9QeWLdedvhwiQmyNeds3ppsGSzthffcRGd1?ext=png",
+      "metadata_hash": "287f1b2b29ec04f0c0a2453c99bd9836d170cd011227fe62075c53efeff3df3a",
+      "metadata_link": "https://gateway.irys.xyz/3XowjG8mhhBjSYzPNskfDzb4hK9HcNW8rAZAiKM4UhXt",
       "onChain": true
     },
     "12": {
-      "name": "Numbers #12",
-      "image_hash": "1a754704124384af9f6d12801313d7351efdc58339829494287d2d9c84cd9ddf",
-      "image_link": "https://gateway.irys.xyz/AS4GtvBeYbjKDo5Zp7Edv2Jh1crs8HhR7XA35r625efz?ext=png",
-      "metadata_hash": "3a6ec1503fa7d5bcddd99ff4371c2f8c9771a4874302cb822e88ce03e44b0e62",
-      "metadata_link": "https://gateway.irys.xyz/FD1YbgtnCbk1NKFnxddrk861C4Y3btskW3ivDMapVZJx",
+      "name": "LU NFT #12",
+      "image_hash": "6d655e8a96f31310b32e3e70d9b3a21f47b23141d44e00fe4e03c10636883492",
+      "image_link": "https://gateway.irys.xyz/8pAu7zKqCemGmJqwAwMSy1Hd4NkkJtXhefL2zm4DQJC?ext=png",
+      "metadata_hash": "add5536a8e70daf1de8e3d31bccb29038fc877dcba9f7c8cd5d1054884646a01",
+      "metadata_link": "https://gateway.irys.xyz/AhD6dtV7VvBsoN3rVLbDqJRdhMHoRK6hCvivdTUWsM3V",
       "onChain": true
     },
     "13": {
-      "name": "Numbers #13",
-      "image_hash": "4b55ee6ab00746da222f6af327751e2b5c79bedec288e16d13dabad6242aaca3",
-      "image_link": "https://gateway.irys.xyz/EV5BCZDffTSbtptkQF3pFVpAJcU5ER6hHnezYefMX3V?ext=png",
-      "metadata_hash": "87d5117e14e83ae3f6c9d7c7babcc22439204bbf9681927e821a916c4347ac97",
-      "metadata_link": "https://gateway.irys.xyz/2VBRWNWBX2Mw9WCX2L4yfq6i4mdaHjhDHhGqRs2SWjsY",
+      "name": "LU NFT #13",
+      "image_hash": "ac2dfaaf28a0fa13690d99130dfb6d5ec9e1cf9f6c734a2fd33890223226e8dd",
+      "image_link": "https://gateway.irys.xyz/9kMjbqTQa6bw6hzAqw4WDwF8NeD9EM1DyoUXCYX4duJK?ext=png",
+      "metadata_hash": "9a332d44217a07aa1c9338c8585fdae566f4b336155bbbfeb8eb82b5823178a3",
+      "metadata_link": "https://gateway.irys.xyz/AtG1eXwa4HteXpkXnCRpNxTfKuLSZWVAEmyqgiLCx8C1",
       "onChain": true
     },
     "14": {
-      "name": "Numbers #14",
-      "image_hash": "53f41414b775312fa2138367d413ce1c307b2df0b9b83e05b8e7e5d81eb160a4",
-      "image_link": "https://gateway.irys.xyz/GnwQvcPx3u1irUWEVcwutV5Rgh2mDBF2QfaxQQS1Tmjo?ext=png",
-      "metadata_hash": "650861cfb139201172045695059c588e5c345f862195618e887c4ada555c9589",
-      "metadata_link": "https://gateway.irys.xyz/2v2n1JxiVpQYCR5nNDjCT75nuHiBnpzFNNNFHL4F8YDt",
+      "name": "LU NFT #14",
+      "image_hash": "e7238e6b79cdc7509f0b5148f0e855cacba4e611b84033e44f08c89108c22139",
+      "image_link": "https://gateway.irys.xyz/AFCPccWyqdtZcjfjSuZ1HZWoHSHQUFo9cE2FAZH28Eo6?ext=png",
+      "metadata_hash": "4cb53e2e43ba516d39ff34919855e9e41cfb532393287582bc9ff20cc05ddfd6",
+      "metadata_link": "https://gateway.irys.xyz/6ew9bStM8jqKrHrVJYmGetLBCSjHSpWUPRVuGE1qrBp7",
       "onChain": true
     },
     "15": {
-      "name": "Numbers #15",
-      "image_hash": "37510d62305217b9c2f8499052dae5f8bb8d541e9834551307bc0e6c32514b8c",
-      "image_link": "https://gateway.irys.xyz/7Vdx2eJ6M4Pr8wadcoyD8iBBweFymqgpQvMpg6egCu7A?ext=png",
-      "metadata_hash": "4b972f4887489930fb0868e8c35a6964d0b6bc0f30c8d3c994c17e60baadb360",
-      "metadata_link": "https://gateway.irys.xyz/HktaEZMMt5CFy8bQivxxoaskKzV7Y1xa1thGAWBNyEBE",
+      "name": "LU NFT #15",
+      "image_hash": "0fb689026a060d99986e5be537d7ec1f8f39c1b9d0e97f720fba49f160eeb6ca",
+      "image_link": "https://gateway.irys.xyz/79uAixoVuWXrgXwAcuvH6qoHyKH1AqnxFmvn3aHDXNE3?ext=png",
+      "metadata_hash": "41143751a59d9f84a5ffbfb0f2277bb32b2369b0fff379b13d4375df7422f205",
+      "metadata_link": "https://gateway.irys.xyz/51WCB15hKZW3vUxh2CoqXLv8cWaj7VQdvqgfwsXu7ag2",
+      "onChain": true
+    },
+    "16": {
+      "name": "LU NFT #16",
+      "image_hash": "57ac91a4e1780d22ab1feb2cf5aef04f888188825d40c26d63687eacaab11f2f",
+      "image_link": "https://gateway.irys.xyz/BjfE4oFeAv5gjPNaLH2AxfFs5fjLjPqLGM2mjAWQoQxq?ext=png",
+      "metadata_hash": "bbd9c468cb1960035bf2b369948435c300a811da248cf0b59ad4c32a3e5c7c18",
+      "metadata_link": "https://gateway.irys.xyz/B3HC5cLjVUNwjwg6kVMczA8wKepi6FNaDprZtoQTgfvU",
+      "onChain": true
+    },
+    "17": {
+      "name": "LU NFT #17",
+      "image_hash": "9b4e4b15fa29c25f7e9fa27d0a8a989ca4f9d17e394e96154c6952c6e352d77b",
+      "image_link": "https://gateway.irys.xyz/CDSNY4bVWVPXpzhdtxxq8AqMbwBspZMjjcgpZtJbgSXK?ext=png",
+      "metadata_hash": "d2116216777962b67dfe42af16bdc89eb1e398cd667a87888fd71bdee6496b51",
+      "metadata_link": "https://gateway.irys.xyz/3ivDa7iXgVhyybFS7tm8fywRZUQpJz2AFHsrtoqtorhn",
+      "onChain": true
+    },
+    "18": {
+      "name": "LU NFT #18",
+      "image_hash": "9b957c71d4c3838a6d0998563c50eae5c2584823fade25b1ef7cda84a0bf6ccd",
+      "image_link": "https://gateway.irys.xyz/3CqECM3eyaJgfup52pKYN2cGEGYiNovUYoJXatdHnu1y?ext=png",
+      "metadata_hash": "f30ee15d421441eca8d1e47f8e38cacffc90a04a4ec20cd60a8d0a75297e1446",
+      "metadata_link": "https://gateway.irys.xyz/G3smqR5t1AhuCk723p1Ytgp8ZkXTUK7SmYtsy37ZyLWh",
+      "onChain": true
+    },
+    "19": {
+      "name": "LU NFT #19",
+      "image_hash": "45db034fabf0d439f9956e3c93ce23ac5e5abe00e25101e7f1dd7928ea7943d4",
+      "image_link": "https://gateway.irys.xyz/HSJVzv8GhTbsPwg6DeBAK6gCCZkgfHHZG7yyWVCNMiSn?ext=png",
+      "metadata_hash": "2b89db468d694b3537fab96ce1e482d734fc6991aa9795f9662a8ff4e49c9e37",
+      "metadata_link": "https://gateway.irys.xyz/8XDpDufqUBvTHVjk1DNc2YCddHEerPWJmDH29VYDk8mJ",
+      "onChain": true
+    },
+    "20": {
+      "name": "LU NFT #20",
+      "image_hash": "1afed35a6d9efb5652fd553f161b88c3fb508f782b5bf28baf7989abe28153f0",
+      "image_link": "https://gateway.irys.xyz/AVdx9BcJxtiDwWYQx9NmyTshTJmYRB7KbLqCm4ozQ1Ny?ext=png",
+      "metadata_hash": "1c351b55ce2450414b1a6493cdafb399fa23782ce9c94d608a143742cc03d8b3",
+      "metadata_link": "https://gateway.irys.xyz/GfrMjDZtk6BF4yqHn73VENStobzCkotBCrU6ZSoFovMH",
+      "onChain": true
+    },
+    "21": {
+      "name": "LU NFT #21",
+      "image_hash": "91f2f899aaac8e154206482bb22a09910c4eb6b29f8ef42b373bb6ee3db0704b",
+      "image_link": "https://gateway.irys.xyz/72czGhtM1Vmd5PSc4od3yVNi3oPWCwKGHHQtqeY8mrzC?ext=png",
+      "metadata_hash": "2837c61e88b5e7b423cb8efd5e5c147728bdf70ec46e201e6cc0c55e51ffc33d",
+      "metadata_link": "https://gateway.irys.xyz/7LFSqbRLCG7LjMD4aceKHKrnNaFsDdsbyeAqzmqzx1gW",
+      "onChain": true
+    },
+    "22": {
+      "name": "LU NFT #22",
+      "image_hash": "683f9751f38bf5224f506864d11f1d69ae73927a87aa6ba4c2385771ac74cd89",
+      "image_link": "https://gateway.irys.xyz/4vCWEJz1yy1iBpJeHtpc9nxNpM45rEuDhyeGmSazx9nN?ext=png",
+      "metadata_hash": "853ff36b002ac7c3fd448c493f47327118e229302b335d935bbecc6c71672b12",
+      "metadata_link": "https://gateway.irys.xyz/3y6xuMEgYjqdbKeKnwTxHGqygfJQptFkqcqQdu2U2cH1",
+      "onChain": true
+    },
+    "23": {
+      "name": "LU NFT #23",
+      "image_hash": "d1f9b60b09a2260595d68e0c594fe02c24010d4eefd5dc2e2e0bf860de2e1fed",
+      "image_link": "https://gateway.irys.xyz/6iNWjG4JWLAsCW4AbtLbVcBb39haWKibqny4HcxBENLk?ext=png",
+      "metadata_hash": "b949de08295ff43a9a36dd372476aa06da81ad1b62cbede4e3c88f675ba3abfc",
+      "metadata_link": "https://gateway.irys.xyz/GZtr731Ne3Fr6Qjyt1kmAUNYjWsXfPFiKRAqYarvPePB",
+      "onChain": true
+    },
+    "24": {
+      "name": "LU NFT #24",
+      "image_hash": "093e93b3fcf32edfb17a4ba96e36c6ac66c1ed5c6213842206e5387abbcd3d78",
+      "image_link": "https://gateway.irys.xyz/Bq3BVJDhbEsJuLHFgpiwxRFKrrxJNuEK2xebUb1ERU1J?ext=png",
+      "metadata_hash": "c04bf97c218daa52e3f9dd4a437ac78a4fd944bcbf18f179bb6f85600919af7e",
+      "metadata_link": "https://gateway.irys.xyz/A3WfqHLZvku32AvK5n1ayGva3e98HcHE7j9diuHLCnzd",
+      "onChain": true
+    },
+    "25": {
+      "name": "LU NFT #25",
+      "image_hash": "358704f80c45ec7f05881808d620753d7ce2a5a7a8110e4fcace1ff3dea2808c",
+      "image_link": "https://gateway.irys.xyz/9tveCbPxP7hLyND1fVhTyWfBjkRv3cQpKZKCh1u1Bk1D?ext=png",
+      "metadata_hash": "16261426914ccbf5335da0a18c5e032a01a7fbcedf4e1c2f9691c2158a5270da",
+      "metadata_link": "https://gateway.irys.xyz/DbzjycmPvNJpgUtYadP5wxSRiPEv7PNgQubdwtpG2nhG",
+      "onChain": true
+    },
+    "26": {
+      "name": "LU NFT #26",
+      "image_hash": "6af7016ec5f6e92da70ae2300452328fc5c0b2cb5ca2f5baf4616ad79af45d46",
+      "image_link": "https://gateway.irys.xyz/H6qRnULSJSnKuUsLmjE7YL6GvFm3v7tzQewYdvN85YFt?ext=png",
+      "metadata_hash": "162cd7be8b03fbea1948f8c865ca26d5704fdb3f0e00f12d576caee237d02c54",
+      "metadata_link": "https://gateway.irys.xyz/2KQpuVnVycKvdUJ5SNfUUqr1KXDb6GEBkCSSmT871fkj",
+      "onChain": true
+    },
+    "27": {
+      "name": "LU NFT #27",
+      "image_hash": "c269710edc1af34ef9a7f30457de7f4806bcf35ff6c09a635915f405dd8da62b",
+      "image_link": "https://gateway.irys.xyz/BdMSKeyd877UK5H5NbAC1rTSaffnervYYEFFRwrPMxxs?ext=png",
+      "metadata_hash": "b1c11c1010b57d04ff3386c11010434edb9b7e5ae2fd2c8b6d5236930ad3c9a9",
+      "metadata_link": "https://gateway.irys.xyz/Byje3QXE7Ppy988cpVD324JBkaR4NS2knpySUgVWUAr1",
+      "onChain": true
+    },
+    "28": {
+      "name": "LU NFT #28",
+      "image_hash": "175e00c0785c3f9a4b53e740d9b0e45f2378d295b0520fb9cfe54ceb55d2a5d2",
+      "image_link": "https://gateway.irys.xyz/ETcnVvNw3NScnFzt6SCFhNdKVRASpocgMBXMNjRo4twN?ext=png",
+      "metadata_hash": "001bd4fcaeb3b4d491ce5601b42ec2bc9f4e1d5d10f5ff4d937b5a333fd5a988",
+      "metadata_link": "https://gateway.irys.xyz/33Aw2VHp67SVzT2dRM8mh2znBe358aFNTumHYVb3Hx6W",
+      "onChain": true
+    },
+    "29": {
+      "name": "LU NFT #29",
+      "image_hash": "7bcef4de8a94f614360d77567c6215cead61c27fd3519d9c131eb0fbc8554746",
+      "image_link": "https://gateway.irys.xyz/DkFfryCaLvDg7N9pMv97ytjgvjfcKEj1v7hCDjgiFyc5?ext=png",
+      "metadata_hash": "28d6395abe9cfa05e250e8e8aad98ae807cb70c856148c39fb280128aaa0b4c5",
+      "metadata_link": "https://gateway.irys.xyz/12qzqRAHjhYC5RUuwSzKzjnFzBShKMB9nVwcTYfR1Mju",
+      "onChain": true
+    },
+    "30": {
+      "name": "LU NFT #30",
+      "image_hash": "f9e82e41700e3d1c3d1701cd338982e39c483d7ade8715d28146c05bb866dd92",
+      "image_link": "https://gateway.irys.xyz/3fTGN2wRHfmzALfYMuonRABrVnhV6wwWsdo8ZKFLfikR?ext=png",
+      "metadata_hash": "2fed16e193899a59eb179d39a8385f2522ab7e71655999b35b5b8e9a2b79589f",
+      "metadata_link": "https://gateway.irys.xyz/4WKbZYaRQ8NGYXiyoosfwffszHpGHopYEWj4ZCHzd39k",
+      "onChain": true
+    },
+    "31": {
+      "name": "LU NFT #31",
+      "image_hash": "d1fd5e6fe75ff7706e41bdc8101d27e8356161cf4de599b9d7de1fa6a353578b",
+      "image_link": "https://gateway.irys.xyz/GfXTH1fcTXT1ATKLrKkHZD5faCmVfMWMRpVQ9F1UGjSc?ext=png",
+      "metadata_hash": "9996098e04f05d6e8b55df68ddfd1cbb73c0adf00e7e2f7de24b6a674e20e0f1",
+      "metadata_link": "https://gateway.irys.xyz/8YQuPv8Wx8k6upRSnGUxAxwq55m4TjoADtJhaBTHZcwL",
+      "onChain": true
+    },
+    "32": {
+      "name": "LU NFT #32",
+      "image_hash": "a902622f59abe088f4a8b9ad107bcc7cb6e94162952560725e8389c950c3dc12",
+      "image_link": "https://gateway.irys.xyz/6NhXnNA7i41fT81WZkLdrB2G2ZGt9HHT7cqRA1jCZXZ4?ext=png",
+      "metadata_hash": "822ec792555afc69eaefd37e6fd0989d6fce42fb4c79c15bf4608cca1fc048fb",
+      "metadata_link": "https://gateway.irys.xyz/A6R5iuf46xgZQi1NSWY7SZPiPhpn88eeV9ixqeNwLPH4",
+      "onChain": true
+    },
+    "33": {
+      "name": "LU NFT #33",
+      "image_hash": "2922c30df5dd290eae63fac4338a3ef393c88a6e7530a048d050b5ae15a91a1f",
+      "image_link": "https://gateway.irys.xyz/9riH2RMmKf7Rumk2jSuBFUEWSRT4parUhXTzCZy7cJBY?ext=png",
+      "metadata_hash": "9fa3b31423bafcb5ddcb7b7b111516b858b392f7c1fd072b81f4e17b9745999d",
+      "metadata_link": "https://gateway.irys.xyz/9iwxUSXeNqLRK2mxZuGvypbuLgBU9X4EHHaT8DysswN4",
+      "onChain": true
+    },
+    "34": {
+      "name": "LU NFT #34",
+      "image_hash": "bb7e361a90f1056601f306e61dcae3ae972acacbc1f43f3cadc81d55d0d7a567",
+      "image_link": "https://gateway.irys.xyz/BTUzkqvhE73Ra9ttWNNA6GWK9VLuGgAnvDu1WkETFX9a?ext=png",
+      "metadata_hash": "53df546c711bba9806636b2465442f480f7fb94b30de237c50a729bc69802a48",
+      "metadata_link": "https://gateway.irys.xyz/AuTvtbEZCEXERwftdeihXtFPK9rM7CDnV6jxDtGv9bEz",
+      "onChain": true
+    },
+    "35": {
+      "name": "LU NFT #35",
+      "image_hash": "75ac5523786721ada554f4316bbf1905f60c2a49f9789c5dfd034e839e046b93",
+      "image_link": "https://gateway.irys.xyz/8A6p6ciowG2AiB7puVa8JKR5EdW6MzSaHrUk2M4myh41?ext=png",
+      "metadata_hash": "c25f7d42590ddc69da299e6737ad44e6e97218c8c624770c5072b3adaf18d46f",
+      "metadata_link": "https://gateway.irys.xyz/8VxWRnqB1tkYCSyLgqFvfBzX5GzSVo32RV37kWnyJHs",
+      "onChain": true
+    },
+    "36": {
+      "name": "LU NFT #36",
+      "image_hash": "b5749023ffe18511a52f5716d8a15519dc877fee467aec5d57d7712b34fa28b1",
+      "image_link": "https://gateway.irys.xyz/Bnc7hM54PrrVqV7qtazEvnPmJJCGEurMf36nuMUy2EVz?ext=png",
+      "metadata_hash": "69bddadeebc03b0a659ac21278e2dc2a5db00b3506ff1daeb7afe4ab4f0b702c",
+      "metadata_link": "https://gateway.irys.xyz/kSaRPgHoAQu9VmRpjEweuFh4Akdw96Pa5PhfUoPy4cT",
+      "onChain": true
+    },
+    "37": {
+      "name": "LU NFT #37",
+      "image_hash": "179b183193cbb56f386001a01b02aadc7dd4e49315a87b2017c4c01852c570b7",
+      "image_link": "https://gateway.irys.xyz/2fbqfWj4ysXshKPj2Zs9xR8xwY8n6wkQ5hySJZhRVii4?ext=png",
+      "metadata_hash": "63a41fa4bc1b7f519f897ce841780fcaf0fd86675cc7930ac80a99b6b374b6ad",
+      "metadata_link": "https://gateway.irys.xyz/6Ypf4gx9P4UNxHTL4sWfczskWEpojs3AVPbchpMTnp1o",
+      "onChain": true
+    },
+    "38": {
+      "name": "LU NFT #38",
+      "image_hash": "39b790258295905aa20b0463878eb8edf3751172d148deddbb7bab08cd3af147",
+      "image_link": "https://gateway.irys.xyz/FJhwfwiJTCH4wHTjdRAi2u6jvxyK9uxDouVmm9WTDwa2?ext=png",
+      "metadata_hash": "adc1dbd32cdf7dd5a5acdda68b97395179b3299a70447bf66f9cbeef97724281",
+      "metadata_link": "https://gateway.irys.xyz/5GBe5r4jn7if8jY33H8CeY8SvHktp59yZXwNYoDr3Nf9",
+      "onChain": true
+    },
+    "39": {
+      "name": "LU NFT #39",
+      "image_hash": "9b13dc8dd3302fcb808a40fcd568e6a03923a3bec46766a915698c2977ab5ff8",
+      "image_link": "https://gateway.irys.xyz/6jjADGUDKzt6RenqqVGXaoK66rq8v6akimNfvUznTTcx?ext=png",
+      "metadata_hash": "3e5505a03d4ae5dc9df7a39eeca10205f5db0c84e753051a2e7eca32af4993d0",
+      "metadata_link": "https://gateway.irys.xyz/CvW6zVTt9HsoysRYYbFv7zJ4iGSPLMyuc6Q8ji5JUbH1",
+      "onChain": true
+    },
+    "40": {
+      "name": "LU NFT #40",
+      "image_hash": "ef09613112bf0d201b201ec58c9a06dc29d3ff443a768be9dde66ff7808f52b4",
+      "image_link": "https://gateway.irys.xyz/8kYNgSThAiWSZrBn8xQcWJViDWpAfPqmcyy4tHFQJhoy?ext=png",
+      "metadata_hash": "d8f5d29e17a84e04536fc8c31f4bcf12bcc7a23514a6e7b158710ddb976f6def",
+      "metadata_link": "https://gateway.irys.xyz/GXDWRZu4A5pQKGcYpdXJp9aUSHvAfuw4Sp3U3RraJGE7",
+      "onChain": true
+    },
+    "41": {
+      "name": "LU NFT #41",
+      "image_hash": "b117ef246ad2d0c48bb7a8ad970c3fbcfa00d6df51170e7bbecb59cf6724351e",
+      "image_link": "https://gateway.irys.xyz/FDXVn8Ef4hb5nRX2abC6XjK668BDo6ZadwciwW9m9Hgh?ext=png",
+      "metadata_hash": "8d12ab8adbb8b63be9b802d3db2d129f40d0bd52ab5e417f66a9da7449c9a3ae",
+      "metadata_link": "https://gateway.irys.xyz/CH4hdScmEGX6eSBNRBd6xfogv8RSNuD5585n7VPAh1QW",
+      "onChain": true
+    },
+    "42": {
+      "name": "LU NFT #42",
+      "image_hash": "f9b8df004b3e9130778447290cb7723bdc9b5cb0c1690845a9d34828d42416a8",
+      "image_link": "https://gateway.irys.xyz/DtK2FAXR4vruShWM52uUuu6uCKNCwuMWC4dSmFpASxnY?ext=png",
+      "metadata_hash": "20c2a7f6c64ab2a5d075cde4b3bfa027a941a58423445c4382f812be5fd26f98",
+      "metadata_link": "https://gateway.irys.xyz/7cdgm737u7PN9pXnmLst2ZbGqXe8eKR3KVNn8N9CwT1G",
+      "onChain": true
+    },
+    "43": {
+      "name": "LU NFT #43",
+      "image_hash": "61d74458fa74dadfc340c13f10f9d1ede3f1d4f71788ac50fb5b6a01f87044ac",
+      "image_link": "https://gateway.irys.xyz/7rDNf6XbXid1gnEMcgs28dPfqamNAapiNBw2YEUd7VJz?ext=png",
+      "metadata_hash": "f14fdb80c5a1c73f66fadef72c84ae95a91392536dcd1d71a694cdfd27ba8310",
+      "metadata_link": "https://gateway.irys.xyz/8ScLbfC5yDuxHHXDgL6VtmKCzKs1SJC24YqjAHEYNpDr",
+      "onChain": true
+    },
+    "44": {
+      "name": "LU NFT #44",
+      "image_hash": "b9462cc6ded750226ec65c0ad60a2e896da0565fd50393502eff1039fb452054",
+      "image_link": "https://gateway.irys.xyz/BjhKLPyEAgCQ2VjGhVMSAjpaAACjhszMzY3c5MmZJSiF?ext=png",
+      "metadata_hash": "d98aa8ee426b91e1763f79d9efad23fd753bb2b60b737eb2ff423526742ef0f9",
+      "metadata_link": "https://gateway.irys.xyz/7ToHbQheb3NEwy1d46KbYX4ZpzQRns2PeHafv4HeFXyA",
+      "onChain": true
+    },
+    "45": {
+      "name": "LU NFT #45",
+      "image_hash": "c43435a975898424841b847f7035bec102a228446e9228264f929fab6d217f95",
+      "image_link": "https://gateway.irys.xyz/DYBZBwN1uyyp923GQYB1Dim2KwFFnjxteeVwtmADtHK9?ext=png",
+      "metadata_hash": "ee19e73ed697fa7d68e3e4b97e39da81a5f014f045abf5dfe402344d5d1e7ad8",
+      "metadata_link": "https://gateway.irys.xyz/GAqTgbCbcfuy59rpzmPZyPz1sTFa78Wmwr81wmxRJc1B",
+      "onChain": true
+    },
+    "46": {
+      "name": "LU NFT #46",
+      "image_hash": "bc17fdb267e2663e1436056d6670febc8485941560a1d5d04f82523fbb955d91",
+      "image_link": "https://gateway.irys.xyz/EL1j29AoFLJ4dGTFezSyYQepgmVsx6rhzWM1TxZLKS4?ext=png",
+      "metadata_hash": "530282a559a395f037f2b4f3f83481fa169a7207593819fc438a8fdbdec88c6e",
+      "metadata_link": "https://gateway.irys.xyz/6KBECUQgxDfe6QYcHmnN4AnqEXF4PbmCoq5XG1DCi8jX",
+      "onChain": true
+    },
+    "47": {
+      "name": "LU NFT #47",
+      "image_hash": "a0c868e963720da594c4956d8e769bfeb31b3c7d2916bd6786d0bb3328acfc95",
+      "image_link": "https://gateway.irys.xyz/rXPiaQRJpaSNX61YA9r6vf2XH4yCotDtb6YEfmBDg2z?ext=png",
+      "metadata_hash": "053b4d79b7f4f6defe2d7d3f183ff2b69ef07900e48892ebd29fa46fd1d05fce",
+      "metadata_link": "https://gateway.irys.xyz/2AHb9dCpv4ZrWYgNxkMiTFLUNtDubsaeUWHbpbaGmmSC",
+      "onChain": true
+    },
+    "48": {
+      "name": "LU NFT #48",
+      "image_hash": "1b987e5d5cedc086d6211b5d5de4e57ab6b0b1af1c950a1d79e00677105a231a",
+      "image_link": "https://gateway.irys.xyz/EvSJJzRPZbX8sAjDnukNnJfzi7aibSHwJcUzneoUbAAK?ext=png",
+      "metadata_hash": "6bc1802639ffdfdd35da8ff69a67bb8558235826a1d7428bb273e615efac3c4b",
+      "metadata_link": "https://gateway.irys.xyz/FV6iLqbCU6Ea6itbSXzJRW8dDbu6MuPVH7qqbqw12rPZ",
+      "onChain": true
+    },
+    "49": {
+      "name": "LU NFT #49",
+      "image_hash": "0898b86ae244d9efb2458698925847f6b16e34889826ab8bf69286ef3a16e0db",
+      "image_link": "https://gateway.irys.xyz/B5AtDiqCZbZcfc7gSbzvAdsMNXb35fgQzwvZit5HDJfg?ext=png",
+      "metadata_hash": "fbe465aaa9c9cfee6db6226d624a557abc515efc0ea34869a265194c2c3709a4",
+      "metadata_link": "https://gateway.irys.xyz/7Xit4fh1JWwqQX5qXvcrfZy2SaV4nK9AFRkP1kkamAQs",
       "onChain": true
     }
   }

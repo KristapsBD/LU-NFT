@@ -1,6 +1,6 @@
 {
   "tokenStandard": "nft",
-  "number": 50,
+  "number": 16,
   "symbol": "LUNFT",
   "sellerFeeBasisPoints": 0,
   "isMutable": true,

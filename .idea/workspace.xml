@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f766b81d-3dc8-4b60-94b8-6c1a447fbf8d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/hashlips-art-engine/assets-example/solana/0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashlips-art-engine/assets-example/solana/0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashlips-art-engine/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/hashlips-art-engine/src/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/kristapsdravnieks/universitate/LU-NFT/hashlips-art-engine/assets-example/solana",
+    "last_opened_file_path": "/home/kristapsdravnieks/universitate/LU-NFT/solana-ui/public",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.standard": "",
@@ -48,11 +46,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/solana-ui/public" />
+      <recent name="$PROJECT_DIR$/candymachine/assets" />
+      <recent name="$PROJECT_DIR$/hashlips-art-engine/assets-example/solana" />
       <recent name="C:\Users\Krist\OneDrive\Dokumenti\Business\LU-NFT\hashlips-art-engine\assets-example\ethereum" />
       <recent name="C:\Users\Krist\OneDrive\Dokumenti\Business\LU-NFT\ethereum-ui\src\images" />
-      <recent name="$PROJECT_DIR$/hashlips-art-engine/assets-example/solana" />
-      <recent name="$PROJECT_DIR$/hashlips-art-engine/assets-example" />
-      <recent name="$PROJECT_DIR$/solana-ui" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Krist\OneDrive\Dokumenti\Business\LU-NFT\ethereum-ui\src\images" />
