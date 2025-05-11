@@ -1,0 +1,18 @@
+{
+  "name": "LU NFT #40",
+  "description": "Developed as part of a bachelor's thesis research at the University of Latvia.",
+  "image": "ipfs://NewUriToReplace/40.png",
+  "dna": "44bcf7371a2035d4c23b5872c7f4753cef9fc956",
+  "edition": 40,
+  "date": 1746984419532,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Avatar",
+      "value": "avatar_23"
+    }
+  ]
+}
