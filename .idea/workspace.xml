@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f766b81d-3dc8-4b60-94b8-6c1a447fbf8d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ethereum-ui/src/scripts/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ethereum-ui/src/scripts/main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ethereum-ui/src/scripts/react/CollectionStatus.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ethereum-ui/src/scripts/react/CollectionStatus.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ethereum-ui/src/scripts/react/Dapp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ethereum-ui/src/scripts/react/Dapp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ethereum-ui/src/scripts/react/MintWidget.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ethereum-ui/src/scripts/react/MintWidget.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart-contract/lib/Networks.ts" beforeDir="false" afterPath="$PROJECT_DIR$/smart-contract/lib/Networks.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +83,8 @@
       <workItem from="1746261912412" duration="8156000" />
       <workItem from="1746984204768" duration="320000" />
       <workItem from="1747033201640" duration="12000" />
-      <workItem from="1747061643346" duration="1157000" />
+      <workItem from="1747061643346" duration="1669000" />
+      <workItem from="1747080328261" duration="1779000" />
     </task>
     <servers />
   </component>

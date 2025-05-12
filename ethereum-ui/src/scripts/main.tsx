@@ -7,7 +7,7 @@ import CollectionConfig from '../../../smart-contract/config/CollectionConfig';
 import { ToastContainer } from 'react-toastify';
 
 if (document.title === '') {
-  document.title = CollectionConfig.tokenName;
+  document.title = 'Latvijas Universitātes NFT (ETH)';
 }
 
 document.addEventListener('DOMContentLoaded', async () => {

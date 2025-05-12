@@ -78,15 +78,15 @@ export default class Dapp extends React.Component<Props, State> {
       const transaction = await this.contract.mint(amount, {value: this.state.tokenPrice.mul(amount)});
 
       toast.info(<>
-        Transaction sent! Please wait...<br/>
-        <a href={this.generateTransactionUrl(transaction.hash)} target="_blank" rel="noopener">View on {this.state.networkConfig.blockExplorer.name}</a>
+        Transakcija nosūtīta! Lūdzu uzgaidiet...<br/>
+        <a href={this.generateTransactionUrl(transaction.hash)} target="_blank" rel="noopener">Apskatīt uz {this.state.networkConfig.blockExplorer.name}</a>
       </>);
 
       const receipt = await transaction.wait();
 
       toast.success(<>
-        Success!<br />
-        <a href={this.generateTransactionUrl(receipt.transactionHash)} target="_blank" rel="noopener">View on {this.state.networkConfig.blockExplorer.name}</a>
+        Veiksmīgi izkalts!<br />
+        <a href={this.generateTransactionUrl(receipt.transactionHash)} target="_blank" rel="noopener">Apskatīt uz {this.state.networkConfig.blockExplorer.name}</a>
       </>);
 
       this.refreshContractState();
@@ -122,8 +122,8 @@ export default class Dapp extends React.Component<Props, State> {
       <>
         {this.isNotMainnet() ?
           <div className="not-mainnet">
-            You are not connected to the main network.
-            <span className="small">Current network: <strong>{this.state.network?.name}</strong></span>
+            <strong>Latvijas Universitātes NFT (ETH)</strong>
+            <span className="small">Pašreizējais tīkls: <strong>{this.state.network?.name}</strong></span>
           </div>
           : null}
 
@@ -166,19 +166,16 @@ export default class Dapp extends React.Component<Props, State> {
                   <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
                 </svg>
 
-                Loading collection data...
+                Ielādē kolekcijas datus...
               </div>
             }
           </>
         :
           <div className="no-wallet">
-            {!this.isWalletConnected() ? <button className="primary" disabled={this.provider === undefined} onClick={() => this.connectWallet()}>Connect Wallet</button> : null}
+            {!this.isWalletConnected() ? <button className="primary" disabled={this.provider === undefined} onClick={() => this.connectWallet()}>Savienot Maku</button> : null}
 
             <div className="use-block-explorer">
-              Hey, looking for a <strong>super-safe experience</strong>? <span className="emoji">😃</span><br />
-              You can interact with the smart-contract <strong>directly</strong> through <a href={this.generateContractUrl()} target="_blank">{this.state.networkConfig.blockExplorer.name}</a>, without even connecting your wallet to this DAPP! <span className="emoji">🚀</span><br />
-              <br />
-              Keep safe! <span className="emoji">❤️</span>
+              Sveiki, viedais līgums arī pieejams pa tiešo, izmantojot <a href={this.generateContractUrl()} target="_blank">{this.state.networkConfig.blockExplorer.name}</a>, bez nepieciešamības savienot maku ar šo dApp! <span className="emoji">🚀</span><br />
             </div>
           </div>
         }
