@@ -72,7 +72,7 @@ export const guardChecker = async (
       guardReturn.push({
         label: eachGuard.label,
         allowed: false,
-        reason: "Please connect your wallet to mint",
+        reason: "Lūdzu savienojiet maku pirms kalšanas",
         maxAmount: 0
       });
     }

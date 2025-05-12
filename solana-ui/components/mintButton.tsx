@@ -228,11 +228,11 @@ const mintClick = async (
       mintTxs.push(transaction);
     }
     if (!mintTxs.length) {
-      console.error("no mint tx built!");
+      console.error("Nav izveidota kalšanas transackija!");
       return;
     }
 
-    updateLoadingText(`Please sign`, guardList, guardToUse.label, setGuardList);
+    updateLoadingText(`Lūdzu apstiprināt transakciju`, guardList, guardToUse.label, setGuardList);
     const signedTransactions = await signAllTransactions(
       mintTxs.map((transaction, index) => ({
         transaction,
@@ -266,17 +266,17 @@ const mintClick = async (
 
     if (!(await sendPromises[0]).status === true) {
       // throw error that no tx was created
-      throw new Error("no tx was created");
+      throw new Error("Nav izveidota transakcija");
     }
     updateLoadingText(
-      `finalizing transaction(s)`,
+      `Transakcija procesā`,
       guardList,
       guardToUse.label,
       setGuardList
     );
 
     createStandaloneToast().toast({
-      title: `${signedTransactions.length} Transaction(s) sent!`,
+      title: `${signedTransactions.length} transakcija izveidota!`,
       status: "success",
       duration: 3000,
     });
@@ -321,8 +321,8 @@ const mintClick = async (
   } catch (e) {
     console.error(`minting failed because of ${e}`);
     createStandaloneToast().toast({
-      title: "Your mint failed!",
-      description: "Please try again.",
+      title: "Kalšana neizdevās!",
+      description: "Lūdzu mēģiniet vēlreiz",
       status: "error",
       duration: 900,
       isClosable: true,
