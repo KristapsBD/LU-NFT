@@ -31,18 +31,18 @@ export default class CollectionStatus extends React.Component<Props, State> {
       <>
         <div className="collection-status">
           <div className="user-address">
-            <span className="label">Wallet address:</span>
+            <span className="label">Maka adrese:</span>
             <span className="address">{this.props.userAddress}</span>
           </div>
           
           <div className="supply">
-            <span className="label">Supply</span>
+            <span className="label">Izkaltie NFT</span>
             {this.props.totalSupply}/{this.props.maxSupply}
           </div>
 
           <div className="current-sale">
-            <span className="label">Sale status</span>
-            {this.isSaleOpen() ? 'Open' : 'Closed'}
+            <span className="label">Kalšanas status</span>
+            {this.isSaleOpen() ? 'Atvērts' : 'Aizvērts'}
           </div>
         </div>
       </>

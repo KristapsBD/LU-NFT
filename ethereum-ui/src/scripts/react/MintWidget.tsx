@@ -58,14 +58,14 @@ export default class MintWidget extends React.Component<Props, State> {
             </div>
 
             <div className="price">
-              <strong>Total price:</strong> {utils.formatEther(this.props.tokenPrice.mul(this.state.mintAmount))} {this.props.networkConfig.symbol}
+              <strong>Kopējā cena:</strong> {utils.formatEther(this.props.tokenPrice.mul(this.state.mintAmount))} {this.props.networkConfig.symbol}
             </div>
 
             <div className="controls">
               <button className="decrease" disabled={this.props.loading} onClick={() => this.decrementMintAmount()}>-</button>
               <span className="mint-amount">{this.state.mintAmount}</span>
               <button className="increase" disabled={this.props.loading} onClick={() => this.incrementMintAmount()}>+</button>
-              <button className="primary" disabled={this.props.loading} onClick={() => this.mint()}>Mint</button>
+              <button className="primary" disabled={this.props.loading} onClick={() => this.mint()}>Kalt Jaunu NFT</button>
             </div>
           </div>
           :
