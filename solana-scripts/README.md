@@ -32,7 +32,7 @@ nano .env
 
 ```bash
 # Run with Node.js
-node solana_program_tx_exporter.js --program-id CMZYPASGWeTz7RNGHaRJfCq2XQ5pYK6nDvVQxzkH51zb --api-key YOUR_HELIUS_API_KEY --output transactions.json --format json
+node solana_program_tx_export.js --program-id CMZYPASGWeTz7RNGHaRJfCq2XQ5pYK6nDvVQxzkH51zb --api-key YOUR_HELIUS_API_KEY --output transactions.json --format json --max-transactions 50
 
 # Or directly if you made the script executable
 ./solana_program_tx_exporter.js --program-id CMZYPASGWeTz7RNGHaRJfCq2XQ5pYK6nDvVQxzkH51zb --api-key YOUR_HELIUS_API_KEY --output transactions.csv
