@@ -203,7 +203,7 @@ export default function Home() {
         <style jsx global>
           {`
       body {
-          background: #2d3748; 
+          background: #4c366c; 
        }
    `}
         </style>
@@ -217,7 +217,7 @@ export default function Home() {
                 <Flex justifyContent="flex-end" marginLeft="auto">
                   <Box background={"teal.100"} borderRadius={"5px"} minWidth={"50px"} minHeight={"50px"} p={2} >
                     <VStack >
-                      <Text fontSize={"sm"}>Available NFTs:</Text>
+                      <Text fontSize={"sm"}>Pieejamie NFT:</Text>
                       <Text fontWeight={"semibold"}>{Number(candyMachine?.data.itemsAvailable) - Number(candyMachine?.itemsRedeemed)}/{Number(candyMachine?.data.itemsAvailable)}</Text>
                     </VStack>
                   </Box>
@@ -290,7 +290,7 @@ export default function Home() {
         <Modal isOpen={isShowNftOpen} onClose={onShowNftClose}>
           <ModalOverlay />
           <ModalContent>
-            <ModalHeader>Your minted NFT:</ModalHeader>
+            <ModalHeader>Jūsu izkaltais NFT:</ModalHeader>
             <ModalCloseButton />
             <ModalBody>
               <ShowNft nfts={mintsCreated} />
