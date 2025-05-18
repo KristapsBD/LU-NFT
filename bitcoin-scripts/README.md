@@ -76,3 +76,14 @@ Transaction ID,Timestamp,Data Size (bytes),Virtual Size (vBytes),Fee Rate (sats/
 c496bdbd21ce246a6e429c097931fd22572be9c573da58b329b52707a4c47c0a,2025-05-17T20:02:15.748Z,2048,677,5.24,0.00003551,3.28,mainnet,text/plain,No
 ...
 ```
+
+## Project Structure
+
+| File | Description |
+|------|-------------|
+| **index.js** | Main entry point that coordinates the overall simulation process |
+| **bitcoin-simulator.js** | Handles the simulation loop for Bitcoin transactions |
+| **transaction-generator.js** | Creates the transaction data structure for ordinals inscriptions |
+| **fee-calculator.js** | Manages fee calculations and fetches current network rates |
+| **csv-exporter.js** | Handles data export functionality to CSV format |
+| **utils.js** | Provides shared utility functions used across the application |
